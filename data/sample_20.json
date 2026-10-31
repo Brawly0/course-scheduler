@@ -1,0 +1,447 @@
+{
+  "days": [
+    "Sunday",
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday"
+  ],
+  "periods": [
+    "08:00-09:00",
+    "09:00-10:00",
+    "10:00-11:00",
+    "11:00-12:00"
+  ],
+  "rooms": [
+    {
+      "id": "R101",
+      "capacity": 50,
+      "type": "Lecture"
+    },
+    {
+      "id": "R102",
+      "capacity": 40,
+      "type": "Lecture"
+    },
+    {
+      "id": "R103",
+      "capacity": 35,
+      "type": "Lecture"
+    },
+    {
+      "id": "R104",
+      "capacity": 25,
+      "type": "Lecture"
+    },
+    {
+      "id": "LAB1",
+      "capacity": 30,
+      "type": "Lab"
+    },
+    {
+      "id": "LAB2",
+      "capacity": 25,
+      "type": "Lab"
+    }
+  ],
+  "instructors": [
+    {
+      "id": "I01",
+      "name": "Dr. Ahmad",
+      "unavailable": [
+        [
+          1,
+          2
+        ]
+      ],
+      "preferred_periods": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "I02",
+      "name": "Dr. Ali",
+      "unavailable": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ]
+      ],
+      "preferred_periods": []
+    },
+    {
+      "id": "I03",
+      "name": "Dr. Omar",
+      "unavailable": [
+        [
+          4,
+          2
+        ],
+        [
+          4,
+          3
+        ]
+      ],
+      "preferred_periods": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "I04",
+      "name": "Dr. Lina",
+      "unavailable": [
+        [
+          2,
+          0
+        ]
+      ],
+      "preferred_periods": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": "I05",
+      "name": "Dr. Sara",
+      "unavailable": [
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ]
+      ],
+      "preferred_periods": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "I06",
+      "name": "Dr. Khaled",
+      "unavailable": [
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ]
+      ],
+      "preferred_periods": []
+    },
+    {
+      "id": "I07",
+      "name": "Dr. Rana",
+      "unavailable": [
+        [
+          0,
+          3
+        ]
+      ],
+      "preferred_periods": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "I08",
+      "name": "Dr. Yousef",
+      "unavailable": [
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ]
+      ],
+      "preferred_periods": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": "I09",
+      "name": "Dr. Nour",
+      "unavailable": [
+        [
+          4,
+          0
+        ],
+        [
+          4,
+          1
+        ]
+      ],
+      "preferred_periods": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "I10",
+      "name": "Dr. Hani",
+      "unavailable": [
+        [
+          3,
+          3
+        ]
+      ],
+      "preferred_periods": []
+    },
+    {
+      "id": "I11",
+      "name": "Dr. Maha",
+      "unavailable": [
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          2
+        ]
+      ],
+      "preferred_periods": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "I12",
+      "name": "Dr. Samer",
+      "unavailable": [
+        [
+          2,
+          1
+        ]
+      ],
+      "preferred_periods": [
+        1,
+        2
+      ]
+    }
+  ],
+  "courses": [
+    {
+      "id": "C01",
+      "name": "Artificial Intelligence",
+      "students": 35,
+      "instructor": "I01",
+      "type": "Lecture",
+      "groups": [
+        "CS-Y3"
+      ]
+    },
+    {
+      "id": "C02",
+      "name": "Database",
+      "students": 40,
+      "instructor": "I02",
+      "type": "Lecture",
+      "groups": [
+        "CS-Y3",
+        "CE-Y3"
+      ]
+    },
+    {
+      "id": "C03",
+      "name": "Networks",
+      "students": 30,
+      "instructor": "I03",
+      "type": "Lecture",
+      "groups": [
+        "CS-Y4",
+        "CE-Y3"
+      ]
+    },
+    {
+      "id": "C04",
+      "name": "Operating Systems",
+      "students": 35,
+      "instructor": "I01",
+      "type": "Lecture",
+      "groups": [
+        "CS-Y3"
+      ]
+    },
+    {
+      "id": "C05",
+      "name": "Software Engineering",
+      "students": 45,
+      "instructor": "I04",
+      "type": "Lecture",
+      "groups": [
+        "CS-Y3",
+        "CS-Y4"
+      ]
+    },
+    {
+      "id": "C06",
+      "name": "Algorithms",
+      "students": 40,
+      "instructor": "I05",
+      "type": "Lecture",
+      "groups": [
+        "CS-Y3",
+        "CE-Y3"
+      ]
+    },
+    {
+      "id": "C07",
+      "name": "Data Mining",
+      "students": 25,
+      "instructor": "I06",
+      "type": "Lecture",
+      "groups": [
+        "CS-Y4"
+      ]
+    },
+    {
+      "id": "C08",
+      "name": "Computer Graphics",
+      "students": 30,
+      "instructor": "I07",
+      "type": "Lab",
+      "groups": [
+        "CS-Y4"
+      ]
+    },
+    {
+      "id": "C09",
+      "name": "Web Programming",
+      "students": 25,
+      "instructor": "I08",
+      "type": "Lab",
+      "groups": [
+        "CE-Y3"
+      ]
+    },
+    {
+      "id": "C10",
+      "name": "Machine Learning",
+      "students": 35,
+      "instructor": "I06",
+      "type": "Lecture",
+      "groups": [
+        "CS-Y4",
+        "AI-Y4"
+      ]
+    },
+    {
+      "id": "C11",
+      "name": "Programming I",
+      "students": 45,
+      "instructor": "I09",
+      "type": "Lecture",
+      "groups": [
+        "CS-Y1"
+      ]
+    },
+    {
+      "id": "C12",
+      "name": "Programming I Lab",
+      "students": 25,
+      "instructor": "I09",
+      "type": "Lab",
+      "groups": [
+        "CS-Y1"
+      ]
+    },
+    {
+      "id": "C13",
+      "name": "Discrete Mathematics",
+      "students": 40,
+      "instructor": "I10",
+      "type": "Lecture",
+      "groups": [
+        "CS-Y1"
+      ]
+    },
+    {
+      "id": "C14",
+      "name": "Calculus for Computing",
+      "students": 45,
+      "instructor": "I11",
+      "type": "Lecture",
+      "groups": [
+        "CS-Y1"
+      ]
+    },
+    {
+      "id": "C15",
+      "name": "Digital Logic Design",
+      "students": 35,
+      "instructor": "I12",
+      "type": "Lecture",
+      "groups": [
+        "CS-Y1",
+        "CE-Y2"
+      ]
+    },
+    {
+      "id": "C16",
+      "name": "Programming II",
+      "students": 40,
+      "instructor": "I02",
+      "type": "Lecture",
+      "groups": [
+        "CS-Y2",
+        "CE-Y2"
+      ]
+    },
+    {
+      "id": "C17",
+      "name": "Data Structures",
+      "students": 40,
+      "instructor": "I05",
+      "type": "Lecture",
+      "groups": [
+        "CS-Y2"
+      ]
+    },
+    {
+      "id": "C18",
+      "name": "Data Structures Lab",
+      "students": 25,
+      "instructor": "I10",
+      "type": "Lab",
+      "groups": [
+        "CS-Y2"
+      ]
+    },
+    {
+      "id": "C19",
+      "name": "Computer Architecture",
+      "students": 35,
+      "instructor": "I12",
+      "type": "Lecture",
+      "groups": [
+        "CS-Y2",
+        "CE-Y2"
+      ]
+    },
+    {
+      "id": "C20",
+      "name": "Linear Algebra",
+      "students": 35,
+      "instructor": "I11",
+      "type": "Lecture",
+      "groups": [
+        "CS-Y2",
+        "CE-Y2"
+      ]
+    }
+  ]
+}

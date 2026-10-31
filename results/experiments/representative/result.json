@@ -1,0 +1,5207 @@
+{
+  "chromosome": [
+    [
+      3,
+      1,
+      2
+    ],
+    [
+      1,
+      2,
+      1
+    ],
+    [
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      1,
+      2
+    ],
+    [
+      1,
+      3,
+      0
+    ],
+    [
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      2,
+      2
+    ],
+    [
+      3,
+      1,
+      4
+    ],
+    [
+      3,
+      2,
+      4
+    ],
+    [
+      3,
+      2,
+      2
+    ],
+    [
+      2,
+      1,
+      0
+    ],
+    [
+      2,
+      2,
+      4
+    ],
+    [
+      0,
+      2,
+      1
+    ],
+    [
+      0,
+      1,
+      0
+    ],
+    [
+      4,
+      2,
+      2
+    ],
+    [
+      4,
+      0,
+      1
+    ],
+    [
+      1,
+      1,
+      0
+    ],
+    [
+      4,
+      2,
+      4
+    ],
+    [
+      1,
+      2,
+      0
+    ],
+    [
+      4,
+      1,
+      1
+    ],
+    [
+      3,
+      2,
+      0
+    ],
+    [
+      0,
+      2,
+      0
+    ],
+    [
+      4,
+      1,
+      2
+    ],
+    [
+      4,
+      1,
+      4
+    ],
+    [
+      4,
+      3,
+      5
+    ],
+    [
+      3,
+      2,
+      1
+    ],
+    [
+      4,
+      2,
+      0
+    ],
+    [
+      3,
+      1,
+      1
+    ],
+    [
+      0,
+      2,
+      5
+    ],
+    [
+      0,
+      1,
+      1
+    ]
+  ],
+  "score": {
+    "hard": 0,
+    "soft": 15,
+    "penalty": 150,
+    "fitness": 0.006622516556291391,
+    "hard_details": {
+      "instructor_conflict": 0,
+      "room_conflict": 0,
+      "student_conflict": 0,
+      "room_capacity": 0,
+      "room_type": 0,
+      "instructor_availability": 0
+    },
+    "soft_details": {
+      "early_classes": 2,
+      "late_classes": 2,
+      "student_gaps": 0,
+      "instructor_preferences": 0,
+      "group_working_days": 11
+    }
+  },
+  "history": [
+    {
+      "generation": 0,
+      "fitness": 0.00018446781036709093,
+      "penalty": 5420,
+      "hard": 2,
+      "soft": 52,
+      "evaluations": 100,
+      "mean_fitness": 4.512605087465819e-05,
+      "diversity": 0.9356666666666666
+    },
+    {
+      "generation": 1,
+      "fitness": 0.00018446781036709093,
+      "penalty": 5420,
+      "hard": 2,
+      "soft": 52,
+      "evaluations": 200,
+      "mean_fitness": 6.488241650729821e-05,
+      "diversity": 0.8903333333333333
+    },
+    {
+      "generation": 2,
+      "fitness": 0.00018446781036709093,
+      "penalty": 5420,
+      "hard": 2,
+      "soft": 52,
+      "evaluations": 300,
+      "mean_fitness": 7.858489592701922e-05,
+      "diversity": 0.7916666666666666
+    },
+    {
+      "generation": 3,
+      "fitness": 0.0001872308556450103,
+      "penalty": 5340,
+      "hard": 2,
+      "soft": 44,
+      "evaluations": 400,
+      "mean_fitness": 8.903426133382367e-05,
+      "diversity": 0.6766666666666666
+    },
+    {
+      "generation": 4,
+      "fitness": 0.0003299241174529858,
+      "penalty": 3030,
+      "hard": 1,
+      "soft": 58,
+      "evaluations": 500,
+      "mean_fitness": 0.00010139925114964903,
+      "diversity": 0.6463333333333333
+    },
+    {
+      "generation": 5,
+      "fitness": 0.0018148820326678765,
+      "penalty": 550,
+      "hard": 0,
+      "soft": 55,
+      "evaluations": 600,
+      "mean_fitness": 0.0001431610850652821,
+      "diversity": 0.5670000000000001
+    },
+    {
+      "generation": 6,
+      "fitness": 0.0018148820326678765,
+      "penalty": 550,
+      "hard": 0,
+      "soft": 55,
+      "evaluations": 700,
+      "mean_fitness": 0.00018339868248083688,
+      "diversity": 0.545
+    },
+    {
+      "generation": 7,
+      "fitness": 0.0018148820326678765,
+      "penalty": 550,
+      "hard": 0,
+      "soft": 55,
+      "evaluations": 800,
+      "mean_fitness": 0.0002161761093020953,
+      "diversity": 0.5423333333333333
+    },
+    {
+      "generation": 8,
+      "fitness": 0.0022172949002217295,
+      "penalty": 450,
+      "hard": 0,
+      "soft": 45,
+      "evaluations": 900,
+      "mean_fitness": 0.00027807827914305553,
+      "diversity": 0.5716666666666667
+    },
+    {
+      "generation": 9,
+      "fitness": 0.0022172949002217295,
+      "penalty": 450,
+      "hard": 0,
+      "soft": 45,
+      "evaluations": 1000,
+      "mean_fitness": 0.00036037271628557894,
+      "diversity": 0.5196666666666666
+    },
+    {
+      "generation": 10,
+      "fitness": 0.0022172949002217295,
+      "penalty": 450,
+      "hard": 0,
+      "soft": 45,
+      "evaluations": 1100,
+      "mean_fitness": 0.0005137280277372418,
+      "diversity": 0.47400000000000003
+    },
+    {
+      "generation": 11,
+      "fitness": 0.0022172949002217295,
+      "penalty": 450,
+      "hard": 0,
+      "soft": 45,
+      "evaluations": 1200,
+      "mean_fitness": 0.0005855308853718745,
+      "diversity": 0.4153333333333334
+    },
+    {
+      "generation": 12,
+      "fitness": 0.0022675736961451248,
+      "penalty": 440,
+      "hard": 0,
+      "soft": 44,
+      "evaluations": 1300,
+      "mean_fitness": 0.0007185540413221298,
+      "diversity": 0.33799999999999997
+    },
+    {
+      "generation": 13,
+      "fitness": 0.0024330900243309003,
+      "penalty": 410,
+      "hard": 0,
+      "soft": 41,
+      "evaluations": 1400,
+      "mean_fitness": 0.0007367150324206127,
+      "diversity": 0.2723333333333333
+    },
+    {
+      "generation": 14,
+      "fitness": 0.0024937655860349127,
+      "penalty": 400,
+      "hard": 0,
+      "soft": 40,
+      "evaluations": 1500,
+      "mean_fitness": 0.0008816404819708274,
+      "diversity": 0.20033333333333334
+    },
+    {
+      "generation": 15,
+      "fitness": 0.0024937655860349127,
+      "penalty": 400,
+      "hard": 0,
+      "soft": 40,
+      "evaluations": 1600,
+      "mean_fitness": 0.0010454512989146614,
+      "diversity": 0.17833333333333334
+    },
+    {
+      "generation": 16,
+      "fitness": 0.0026246719160104987,
+      "penalty": 380,
+      "hard": 0,
+      "soft": 38,
+      "evaluations": 1700,
+      "mean_fitness": 0.0010448770097100663,
+      "diversity": 0.18733333333333332
+    },
+    {
+      "generation": 17,
+      "fitness": 0.002770083102493075,
+      "penalty": 360,
+      "hard": 0,
+      "soft": 36,
+      "evaluations": 1800,
+      "mean_fitness": 0.0009897237312738601,
+      "diversity": 0.212
+    },
+    {
+      "generation": 18,
+      "fitness": 0.002849002849002849,
+      "penalty": 350,
+      "hard": 0,
+      "soft": 35,
+      "evaluations": 1900,
+      "mean_fitness": 0.0010311123152080312,
+      "diversity": 0.22
+    },
+    {
+      "generation": 19,
+      "fitness": 0.002849002849002849,
+      "penalty": 350,
+      "hard": 0,
+      "soft": 35,
+      "evaluations": 2000,
+      "mean_fitness": 0.0013170899212563928,
+      "diversity": 0.21466666666666667
+    },
+    {
+      "generation": 20,
+      "fitness": 0.0030211480362537764,
+      "penalty": 330,
+      "hard": 0,
+      "soft": 33,
+      "evaluations": 2100,
+      "mean_fitness": 0.0013609603409698678,
+      "diversity": 0.21933333333333332
+    },
+    {
+      "generation": 21,
+      "fitness": 0.0030211480362537764,
+      "penalty": 330,
+      "hard": 0,
+      "soft": 33,
+      "evaluations": 2200,
+      "mean_fitness": 0.0012995175986673267,
+      "diversity": 0.239
+    },
+    {
+      "generation": 22,
+      "fitness": 0.0030211480362537764,
+      "penalty": 330,
+      "hard": 0,
+      "soft": 33,
+      "evaluations": 2300,
+      "mean_fitness": 0.0013737282295197657,
+      "diversity": 0.18633333333333332
+    },
+    {
+      "generation": 23,
+      "fitness": 0.003115264797507788,
+      "penalty": 320,
+      "hard": 0,
+      "soft": 32,
+      "evaluations": 2400,
+      "mean_fitness": 0.0014583401548481786,
+      "diversity": 0.189
+    },
+    {
+      "generation": 24,
+      "fitness": 0.003215434083601286,
+      "penalty": 310,
+      "hard": 0,
+      "soft": 31,
+      "evaluations": 2500,
+      "mean_fitness": 0.0013639831877787665,
+      "diversity": 0.206
+    },
+    {
+      "generation": 25,
+      "fitness": 0.003215434083601286,
+      "penalty": 310,
+      "hard": 0,
+      "soft": 31,
+      "evaluations": 2600,
+      "mean_fitness": 0.0013162516179320014,
+      "diversity": 0.24366666666666667
+    },
+    {
+      "generation": 26,
+      "fitness": 0.003215434083601286,
+      "penalty": 310,
+      "hard": 0,
+      "soft": 31,
+      "evaluations": 2700,
+      "mean_fitness": 0.0013550424183982996,
+      "diversity": 0.249
+    },
+    {
+      "generation": 27,
+      "fitness": 0.003215434083601286,
+      "penalty": 310,
+      "hard": 0,
+      "soft": 31,
+      "evaluations": 2800,
+      "mean_fitness": 0.0014493307550104844,
+      "diversity": 0.254
+    },
+    {
+      "generation": 28,
+      "fitness": 0.003436426116838488,
+      "penalty": 290,
+      "hard": 0,
+      "soft": 29,
+      "evaluations": 2900,
+      "mean_fitness": 0.0017423904397550365,
+      "diversity": 0.24266666666666664
+    },
+    {
+      "generation": 29,
+      "fitness": 0.003436426116838488,
+      "penalty": 290,
+      "hard": 0,
+      "soft": 29,
+      "evaluations": 3000,
+      "mean_fitness": 0.001490444350244444,
+      "diversity": 0.22466666666666668
+    },
+    {
+      "generation": 30,
+      "fitness": 0.003436426116838488,
+      "penalty": 290,
+      "hard": 0,
+      "soft": 29,
+      "evaluations": 3100,
+      "mean_fitness": 0.0012777848467061675,
+      "diversity": 0.21766666666666667
+    },
+    {
+      "generation": 31,
+      "fitness": 0.0035587188612099642,
+      "penalty": 280,
+      "hard": 0,
+      "soft": 28,
+      "evaluations": 3200,
+      "mean_fitness": 0.0014745038397751286,
+      "diversity": 0.21466666666666667
+    },
+    {
+      "generation": 32,
+      "fitness": 0.0035587188612099642,
+      "penalty": 280,
+      "hard": 0,
+      "soft": 28,
+      "evaluations": 3300,
+      "mean_fitness": 0.0014789549384160627,
+      "diversity": 0.18966666666666668
+    },
+    {
+      "generation": 33,
+      "fitness": 0.0035587188612099642,
+      "penalty": 280,
+      "hard": 0,
+      "soft": 28,
+      "evaluations": 3400,
+      "mean_fitness": 0.0014409725549993117,
+      "diversity": 0.17033333333333334
+    },
+    {
+      "generation": 34,
+      "fitness": 0.0035587188612099642,
+      "penalty": 280,
+      "hard": 0,
+      "soft": 28,
+      "evaluations": 3500,
+      "mean_fitness": 0.001365796079631946,
+      "diversity": 0.16166666666666665
+    },
+    {
+      "generation": 35,
+      "fitness": 0.0035587188612099642,
+      "penalty": 280,
+      "hard": 0,
+      "soft": 28,
+      "evaluations": 3600,
+      "mean_fitness": 0.0014644169407698811,
+      "diversity": 0.15
+    },
+    {
+      "generation": 36,
+      "fitness": 0.0035587188612099642,
+      "penalty": 280,
+      "hard": 0,
+      "soft": 28,
+      "evaluations": 3700,
+      "mean_fitness": 0.0013865281504370666,
+      "diversity": 0.142
+    },
+    {
+      "generation": 37,
+      "fitness": 0.0035587188612099642,
+      "penalty": 280,
+      "hard": 0,
+      "soft": 28,
+      "evaluations": 3800,
+      "mean_fitness": 0.0017797235220498012,
+      "diversity": 0.13566666666666666
+    },
+    {
+      "generation": 38,
+      "fitness": 0.0035587188612099642,
+      "penalty": 280,
+      "hard": 0,
+      "soft": 28,
+      "evaluations": 3900,
+      "mean_fitness": 0.0019854615892636322,
+      "diversity": 0.14133333333333334
+    },
+    {
+      "generation": 39,
+      "fitness": 0.0035587188612099642,
+      "penalty": 280,
+      "hard": 0,
+      "soft": 28,
+      "evaluations": 4000,
+      "mean_fitness": 0.0017153729563436004,
+      "diversity": 0.15
+    },
+    {
+      "generation": 40,
+      "fitness": 0.0036900369003690036,
+      "penalty": 270,
+      "hard": 0,
+      "soft": 27,
+      "evaluations": 4100,
+      "mean_fitness": 0.0019202089461294494,
+      "diversity": 0.13766666666666666
+    },
+    {
+      "generation": 41,
+      "fitness": 0.0038314176245210726,
+      "penalty": 260,
+      "hard": 0,
+      "soft": 26,
+      "evaluations": 4200,
+      "mean_fitness": 0.002331760498726538,
+      "diversity": 0.12733333333333335
+    },
+    {
+      "generation": 42,
+      "fitness": 0.0038314176245210726,
+      "penalty": 260,
+      "hard": 0,
+      "soft": 26,
+      "evaluations": 4300,
+      "mean_fitness": 0.0019327441617671937,
+      "diversity": 0.14
+    },
+    {
+      "generation": 43,
+      "fitness": 0.0038314176245210726,
+      "penalty": 260,
+      "hard": 0,
+      "soft": 26,
+      "evaluations": 4400,
+      "mean_fitness": 0.0015105423166555147,
+      "diversity": 0.16133333333333333
+    },
+    {
+      "generation": 44,
+      "fitness": 0.0038314176245210726,
+      "penalty": 260,
+      "hard": 0,
+      "soft": 26,
+      "evaluations": 4500,
+      "mean_fitness": 0.0018112073605217568,
+      "diversity": 0.15033333333333332
+    },
+    {
+      "generation": 45,
+      "fitness": 0.0038314176245210726,
+      "penalty": 260,
+      "hard": 0,
+      "soft": 26,
+      "evaluations": 4600,
+      "mean_fitness": 0.0017590781673881453,
+      "diversity": 0.15366666666666667
+    },
+    {
+      "generation": 46,
+      "fitness": 0.0038314176245210726,
+      "penalty": 260,
+      "hard": 0,
+      "soft": 26,
+      "evaluations": 4700,
+      "mean_fitness": 0.0018238983759317187,
+      "diversity": 0.133
+    },
+    {
+      "generation": 47,
+      "fitness": 0.00398406374501992,
+      "penalty": 250,
+      "hard": 0,
+      "soft": 25,
+      "evaluations": 4800,
+      "mean_fitness": 0.0019570553660341354,
+      "diversity": 0.12233333333333335
+    },
+    {
+      "generation": 48,
+      "fitness": 0.00398406374501992,
+      "penalty": 250,
+      "hard": 0,
+      "soft": 25,
+      "evaluations": 4900,
+      "mean_fitness": 0.0019868951607170614,
+      "diversity": 0.12666666666666665
+    },
+    {
+      "generation": 49,
+      "fitness": 0.004329004329004329,
+      "penalty": 230,
+      "hard": 0,
+      "soft": 23,
+      "evaluations": 5000,
+      "mean_fitness": 0.001955378090766285,
+      "diversity": 0.15166666666666667
+    },
+    {
+      "generation": 50,
+      "fitness": 0.004329004329004329,
+      "penalty": 230,
+      "hard": 0,
+      "soft": 23,
+      "evaluations": 5100,
+      "mean_fitness": 0.0019623101290230094,
+      "diversity": 0.163
+    },
+    {
+      "generation": 51,
+      "fitness": 0.004329004329004329,
+      "penalty": 230,
+      "hard": 0,
+      "soft": 23,
+      "evaluations": 5200,
+      "mean_fitness": 0.0021987553895846607,
+      "diversity": 0.16233333333333333
+    },
+    {
+      "generation": 52,
+      "fitness": 0.004329004329004329,
+      "penalty": 230,
+      "hard": 0,
+      "soft": 23,
+      "evaluations": 5300,
+      "mean_fitness": 0.002048458030112871,
+      "diversity": 0.1406666666666667
+    },
+    {
+      "generation": 53,
+      "fitness": 0.004739336492890996,
+      "penalty": 210,
+      "hard": 0,
+      "soft": 21,
+      "evaluations": 5400,
+      "mean_fitness": 0.0016622942965448739,
+      "diversity": 0.138
+    },
+    {
+      "generation": 54,
+      "fitness": 0.004739336492890996,
+      "penalty": 210,
+      "hard": 0,
+      "soft": 21,
+      "evaluations": 5500,
+      "mean_fitness": 0.0021156195901384286,
+      "diversity": 0.147
+    },
+    {
+      "generation": 55,
+      "fitness": 0.004739336492890996,
+      "penalty": 210,
+      "hard": 0,
+      "soft": 21,
+      "evaluations": 5600,
+      "mean_fitness": 0.0022052088822692166,
+      "diversity": 0.12833333333333335
+    },
+    {
+      "generation": 56,
+      "fitness": 0.004739336492890996,
+      "penalty": 210,
+      "hard": 0,
+      "soft": 21,
+      "evaluations": 5700,
+      "mean_fitness": 0.0021700476876934157,
+      "diversity": 0.13366666666666666
+    },
+    {
+      "generation": 57,
+      "fitness": 0.004975124378109453,
+      "penalty": 200,
+      "hard": 0,
+      "soft": 20,
+      "evaluations": 5800,
+      "mean_fitness": 0.0018317668799089333,
+      "diversity": 0.13533333333333336
+    },
+    {
+      "generation": 58,
+      "fitness": 0.004975124378109453,
+      "penalty": 200,
+      "hard": 0,
+      "soft": 20,
+      "evaluations": 5900,
+      "mean_fitness": 0.002059998855211834,
+      "diversity": 0.12766666666666668
+    },
+    {
+      "generation": 59,
+      "fitness": 0.004975124378109453,
+      "penalty": 200,
+      "hard": 0,
+      "soft": 20,
+      "evaluations": 6000,
+      "mean_fitness": 0.002034836350256958,
+      "diversity": 0.13966666666666666
+    },
+    {
+      "generation": 60,
+      "fitness": 0.004975124378109453,
+      "penalty": 200,
+      "hard": 0,
+      "soft": 20,
+      "evaluations": 6100,
+      "mean_fitness": 0.0023780510865806293,
+      "diversity": 0.12433333333333334
+    },
+    {
+      "generation": 61,
+      "fitness": 0.004975124378109453,
+      "penalty": 200,
+      "hard": 0,
+      "soft": 20,
+      "evaluations": 6200,
+      "mean_fitness": 0.002339615649981267,
+      "diversity": 0.105
+    },
+    {
+      "generation": 62,
+      "fitness": 0.004975124378109453,
+      "penalty": 200,
+      "hard": 0,
+      "soft": 20,
+      "evaluations": 6300,
+      "mean_fitness": 0.0025458218479209277,
+      "diversity": 0.09666666666666666
+    },
+    {
+      "generation": 63,
+      "fitness": 0.004975124378109453,
+      "penalty": 200,
+      "hard": 0,
+      "soft": 20,
+      "evaluations": 6400,
+      "mean_fitness": 0.002853471073740347,
+      "diversity": 0.08099999999999999
+    },
+    {
+      "generation": 64,
+      "fitness": 0.004975124378109453,
+      "penalty": 200,
+      "hard": 0,
+      "soft": 20,
+      "evaluations": 6500,
+      "mean_fitness": 0.002583558941688151,
+      "diversity": 0.07600000000000001
+    },
+    {
+      "generation": 65,
+      "fitness": 0.004975124378109453,
+      "penalty": 200,
+      "hard": 0,
+      "soft": 20,
+      "evaluations": 6600,
+      "mean_fitness": 0.002102730727330784,
+      "diversity": 0.08966666666666666
+    },
+    {
+      "generation": 66,
+      "fitness": 0.004975124378109453,
+      "penalty": 200,
+      "hard": 0,
+      "soft": 20,
+      "evaluations": 6700,
+      "mean_fitness": 0.0022627419357383522,
+      "diversity": 0.08766666666666666
+    },
+    {
+      "generation": 67,
+      "fitness": 0.004975124378109453,
+      "penalty": 200,
+      "hard": 0,
+      "soft": 20,
+      "evaluations": 6800,
+      "mean_fitness": 0.002645841202724765,
+      "diversity": 0.08733333333333332
+    },
+    {
+      "generation": 68,
+      "fitness": 0.005235602094240838,
+      "penalty": 190,
+      "hard": 0,
+      "soft": 19,
+      "evaluations": 6900,
+      "mean_fitness": 0.002490971377503392,
+      "diversity": 0.08133333333333333
+    },
+    {
+      "generation": 69,
+      "fitness": 0.005235602094240838,
+      "penalty": 190,
+      "hard": 0,
+      "soft": 19,
+      "evaluations": 7000,
+      "mean_fitness": 0.0021407595421385154,
+      "diversity": 0.08133333333333334
+    },
+    {
+      "generation": 70,
+      "fitness": 0.005235602094240838,
+      "penalty": 190,
+      "hard": 0,
+      "soft": 19,
+      "evaluations": 7100,
+      "mean_fitness": 0.0019635022213862177,
+      "diversity": 0.088
+    },
+    {
+      "generation": 71,
+      "fitness": 0.005235602094240838,
+      "penalty": 190,
+      "hard": 0,
+      "soft": 19,
+      "evaluations": 7200,
+      "mean_fitness": 0.0022425801125668114,
+      "diversity": 0.09
+    },
+    {
+      "generation": 72,
+      "fitness": 0.005235602094240838,
+      "penalty": 190,
+      "hard": 0,
+      "soft": 19,
+      "evaluations": 7300,
+      "mean_fitness": 0.002076003224950705,
+      "diversity": 0.10133333333333333
+    },
+    {
+      "generation": 73,
+      "fitness": 0.005235602094240838,
+      "penalty": 190,
+      "hard": 0,
+      "soft": 19,
+      "evaluations": 7400,
+      "mean_fitness": 0.0020073490688672976,
+      "diversity": 0.10400000000000001
+    },
+    {
+      "generation": 74,
+      "fitness": 0.005235602094240838,
+      "penalty": 190,
+      "hard": 0,
+      "soft": 19,
+      "evaluations": 7500,
+      "mean_fitness": 0.0022735229269601346,
+      "diversity": 0.09933333333333333
+    },
+    {
+      "generation": 75,
+      "fitness": 0.005235602094240838,
+      "penalty": 190,
+      "hard": 0,
+      "soft": 19,
+      "evaluations": 7600,
+      "mean_fitness": 0.002432802471667691,
+      "diversity": 0.09899999999999999
+    },
+    {
+      "generation": 76,
+      "fitness": 0.005235602094240838,
+      "penalty": 190,
+      "hard": 0,
+      "soft": 19,
+      "evaluations": 7700,
+      "mean_fitness": 0.00239498930398788,
+      "diversity": 0.10333333333333333
+    },
+    {
+      "generation": 77,
+      "fitness": 0.005235602094240838,
+      "penalty": 190,
+      "hard": 0,
+      "soft": 19,
+      "evaluations": 7800,
+      "mean_fitness": 0.0027182670736079,
+      "diversity": 0.10200000000000001
+    },
+    {
+      "generation": 78,
+      "fitness": 0.005235602094240838,
+      "penalty": 190,
+      "hard": 0,
+      "soft": 19,
+      "evaluations": 7900,
+      "mean_fitness": 0.0027593627411773053,
+      "diversity": 0.10400000000000001
+    },
+    {
+      "generation": 79,
+      "fitness": 0.005235602094240838,
+      "penalty": 190,
+      "hard": 0,
+      "soft": 19,
+      "evaluations": 8000,
+      "mean_fitness": 0.0026472399985616435,
+      "diversity": 0.08966666666666669
+    },
+    {
+      "generation": 80,
+      "fitness": 0.005235602094240838,
+      "penalty": 190,
+      "hard": 0,
+      "soft": 19,
+      "evaluations": 8100,
+      "mean_fitness": 0.002614088268768464,
+      "diversity": 0.08866666666666667
+    },
+    {
+      "generation": 81,
+      "fitness": 0.005235602094240838,
+      "penalty": 190,
+      "hard": 0,
+      "soft": 19,
+      "evaluations": 8200,
+      "mean_fitness": 0.0028786773559862384,
+      "diversity": 0.07066666666666668
+    },
+    {
+      "generation": 82,
+      "fitness": 0.0055248618784530384,
+      "penalty": 180,
+      "hard": 0,
+      "soft": 18,
+      "evaluations": 8300,
+      "mean_fitness": 0.00273705849683956,
+      "diversity": 0.07600000000000001
+    },
+    {
+      "generation": 83,
+      "fitness": 0.0055248618784530384,
+      "penalty": 180,
+      "hard": 0,
+      "soft": 18,
+      "evaluations": 8400,
+      "mean_fitness": 0.0025208912141826707,
+      "diversity": 0.06833333333333336
+    },
+    {
+      "generation": 84,
+      "fitness": 0.0055248618784530384,
+      "penalty": 180,
+      "hard": 0,
+      "soft": 18,
+      "evaluations": 8500,
+      "mean_fitness": 0.0024821664350364874,
+      "diversity": 0.07966666666666665
+    },
+    {
+      "generation": 85,
+      "fitness": 0.0055248618784530384,
+      "penalty": 180,
+      "hard": 0,
+      "soft": 18,
+      "evaluations": 8600,
+      "mean_fitness": 0.0028288465527883232,
+      "diversity": 0.082
+    },
+    {
+      "generation": 86,
+      "fitness": 0.0055248618784530384,
+      "penalty": 180,
+      "hard": 0,
+      "soft": 18,
+      "evaluations": 8700,
+      "mean_fitness": 0.002433340288098015,
+      "diversity": 0.08666666666666668
+    },
+    {
+      "generation": 87,
+      "fitness": 0.0055248618784530384,
+      "penalty": 180,
+      "hard": 0,
+      "soft": 18,
+      "evaluations": 8800,
+      "mean_fitness": 0.0019897785640659773,
+      "diversity": 0.10500000000000001
+    },
+    {
+      "generation": 88,
+      "fitness": 0.005847953216374269,
+      "penalty": 170,
+      "hard": 0,
+      "soft": 17,
+      "evaluations": 8900,
+      "mean_fitness": 0.0027090001691310924,
+      "diversity": 0.11200000000000002
+    },
+    {
+      "generation": 89,
+      "fitness": 0.005847953216374269,
+      "penalty": 170,
+      "hard": 0,
+      "soft": 17,
+      "evaluations": 9000,
+      "mean_fitness": 0.0027216713635357594,
+      "diversity": 0.098
+    },
+    {
+      "generation": 90,
+      "fitness": 0.005847953216374269,
+      "penalty": 170,
+      "hard": 0,
+      "soft": 17,
+      "evaluations": 9100,
+      "mean_fitness": 0.002638040281335907,
+      "diversity": 0.10466666666666667
+    },
+    {
+      "generation": 91,
+      "fitness": 0.005847953216374269,
+      "penalty": 170,
+      "hard": 0,
+      "soft": 17,
+      "evaluations": 9200,
+      "mean_fitness": 0.0023694936094906314,
+      "diversity": 0.121
+    },
+    {
+      "generation": 92,
+      "fitness": 0.005847953216374269,
+      "penalty": 170,
+      "hard": 0,
+      "soft": 17,
+      "evaluations": 9300,
+      "mean_fitness": 0.0028488535111279635,
+      "diversity": 0.11766666666666666
+    },
+    {
+      "generation": 93,
+      "fitness": 0.005847953216374269,
+      "penalty": 170,
+      "hard": 0,
+      "soft": 17,
+      "evaluations": 9400,
+      "mean_fitness": 0.0025762371398835087,
+      "diversity": 0.10033333333333334
+    },
+    {
+      "generation": 94,
+      "fitness": 0.005847953216374269,
+      "penalty": 170,
+      "hard": 0,
+      "soft": 17,
+      "evaluations": 9500,
+      "mean_fitness": 0.002902587361909924,
+      "diversity": 0.094
+    },
+    {
+      "generation": 95,
+      "fitness": 0.005847953216374269,
+      "penalty": 170,
+      "hard": 0,
+      "soft": 17,
+      "evaluations": 9600,
+      "mean_fitness": 0.0029451472335022067,
+      "diversity": 0.09466666666666668
+    },
+    {
+      "generation": 96,
+      "fitness": 0.005847953216374269,
+      "penalty": 170,
+      "hard": 0,
+      "soft": 17,
+      "evaluations": 9700,
+      "mean_fitness": 0.002622798963149675,
+      "diversity": 0.09933333333333334
+    },
+    {
+      "generation": 97,
+      "fitness": 0.005847953216374269,
+      "penalty": 170,
+      "hard": 0,
+      "soft": 17,
+      "evaluations": 9800,
+      "mean_fitness": 0.0027879082052621714,
+      "diversity": 0.098
+    },
+    {
+      "generation": 98,
+      "fitness": 0.005847953216374269,
+      "penalty": 170,
+      "hard": 0,
+      "soft": 17,
+      "evaluations": 9900,
+      "mean_fitness": 0.0028395541529230507,
+      "diversity": 0.08866666666666667
+    },
+    {
+      "generation": 99,
+      "fitness": 0.005847953216374269,
+      "penalty": 170,
+      "hard": 0,
+      "soft": 17,
+      "evaluations": 10000,
+      "mean_fitness": 0.0030121049043785562,
+      "diversity": 0.08533333333333333
+    },
+    {
+      "generation": 100,
+      "fitness": 0.005847953216374269,
+      "penalty": 170,
+      "hard": 0,
+      "soft": 17,
+      "evaluations": 10100,
+      "mean_fitness": 0.0025264741314448337,
+      "diversity": 0.09200000000000001
+    },
+    {
+      "generation": 101,
+      "fitness": 0.005847953216374269,
+      "penalty": 170,
+      "hard": 0,
+      "soft": 17,
+      "evaluations": 10200,
+      "mean_fitness": 0.0023902790181488925,
+      "diversity": 0.093
+    },
+    {
+      "generation": 102,
+      "fitness": 0.005847953216374269,
+      "penalty": 170,
+      "hard": 0,
+      "soft": 17,
+      "evaluations": 10300,
+      "mean_fitness": 0.0030430005440676582,
+      "diversity": 0.08466666666666667
+    },
+    {
+      "generation": 103,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 10400,
+      "mean_fitness": 0.002905931332278029,
+      "diversity": 0.08766666666666666
+    },
+    {
+      "generation": 104,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 10500,
+      "mean_fitness": 0.002474720130654908,
+      "diversity": 0.08766666666666666
+    },
+    {
+      "generation": 105,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 10600,
+      "mean_fitness": 0.0027462038782597948,
+      "diversity": 0.087
+    },
+    {
+      "generation": 106,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 10700,
+      "mean_fitness": 0.0025834408951396063,
+      "diversity": 0.09533333333333333
+    },
+    {
+      "generation": 107,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 10800,
+      "mean_fitness": 0.002717908508824866,
+      "diversity": 0.08333333333333333
+    },
+    {
+      "generation": 108,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 10900,
+      "mean_fitness": 0.0029127878513548968,
+      "diversity": 0.09100000000000001
+    },
+    {
+      "generation": 109,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 11000,
+      "mean_fitness": 0.0024609063254910314,
+      "diversity": 0.10933333333333332
+    },
+    {
+      "generation": 110,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 11100,
+      "mean_fitness": 0.0028914160579820037,
+      "diversity": 0.09266666666666667
+    },
+    {
+      "generation": 111,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 11200,
+      "mean_fitness": 0.002964715633488288,
+      "diversity": 0.09033333333333333
+    },
+    {
+      "generation": 112,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 11300,
+      "mean_fitness": 0.003006426017732284,
+      "diversity": 0.08800000000000001
+    },
+    {
+      "generation": 113,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 11400,
+      "mean_fitness": 0.002558519334359147,
+      "diversity": 0.09466666666666666
+    },
+    {
+      "generation": 114,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 11500,
+      "mean_fitness": 0.0030431879648165827,
+      "diversity": 0.09100000000000001
+    },
+    {
+      "generation": 115,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 11600,
+      "mean_fitness": 0.0029639264483640295,
+      "diversity": 0.097
+    },
+    {
+      "generation": 116,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 11700,
+      "mean_fitness": 0.003261418185996724,
+      "diversity": 0.10766666666666666
+    },
+    {
+      "generation": 117,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 11800,
+      "mean_fitness": 0.002759810217126077,
+      "diversity": 0.09900000000000002
+    },
+    {
+      "generation": 118,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 11900,
+      "mean_fitness": 0.002850418453995225,
+      "diversity": 0.1
+    },
+    {
+      "generation": 119,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 12000,
+      "mean_fitness": 0.003006159626571856,
+      "diversity": 0.09099999999999998
+    },
+    {
+      "generation": 120,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 12100,
+      "mean_fitness": 0.00267643582192489,
+      "diversity": 0.08233333333333334
+    },
+    {
+      "generation": 121,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 12200,
+      "mean_fitness": 0.0025613199495339856,
+      "diversity": 0.08633333333333333
+    },
+    {
+      "generation": 122,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 12300,
+      "mean_fitness": 0.002717125757393829,
+      "diversity": 0.07733333333333334
+    },
+    {
+      "generation": 123,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 12400,
+      "mean_fitness": 0.002307432037577079,
+      "diversity": 0.082
+    },
+    {
+      "generation": 124,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 12500,
+      "mean_fitness": 0.0030551144029996313,
+      "diversity": 0.08233333333333334
+    },
+    {
+      "generation": 125,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 12600,
+      "mean_fitness": 0.0026639624189254284,
+      "diversity": 0.08666666666666667
+    },
+    {
+      "generation": 126,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 12700,
+      "mean_fitness": 0.002558051735426928,
+      "diversity": 0.09166666666666666
+    },
+    {
+      "generation": 127,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 12800,
+      "mean_fitness": 0.00324691396051798,
+      "diversity": 0.09166666666666666
+    },
+    {
+      "generation": 128,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 12900,
+      "mean_fitness": 0.002851982307720299,
+      "diversity": 0.08366666666666665
+    },
+    {
+      "generation": 129,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 13000,
+      "mean_fitness": 0.0025938198030876158,
+      "diversity": 0.08
+    },
+    {
+      "generation": 130,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 13100,
+      "mean_fitness": 0.0028655548239455435,
+      "diversity": 0.08566666666666665
+    },
+    {
+      "generation": 131,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 13200,
+      "mean_fitness": 0.003225602792411712,
+      "diversity": 0.07933333333333333
+    },
+    {
+      "generation": 132,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 13300,
+      "mean_fitness": 0.00303202822613911,
+      "diversity": 0.08266666666666667
+    },
+    {
+      "generation": 133,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 13400,
+      "mean_fitness": 0.0025388360696013746,
+      "diversity": 0.08033333333333334
+    },
+    {
+      "generation": 134,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 13500,
+      "mean_fitness": 0.0025967112304257933,
+      "diversity": 0.09
+    },
+    {
+      "generation": 135,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 13600,
+      "mean_fitness": 0.0027439467234861192,
+      "diversity": 0.09133333333333332
+    },
+    {
+      "generation": 136,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 13700,
+      "mean_fitness": 0.0031277081874099212,
+      "diversity": 0.09666666666666666
+    },
+    {
+      "generation": 137,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 13800,
+      "mean_fitness": 0.0028286825503945887,
+      "diversity": 0.085
+    },
+    {
+      "generation": 138,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 13900,
+      "mean_fitness": 0.0029349722383198696,
+      "diversity": 0.079
+    },
+    {
+      "generation": 139,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 14000,
+      "mean_fitness": 0.003010592118804909,
+      "diversity": 0.07400000000000002
+    },
+    {
+      "generation": 140,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 14100,
+      "mean_fitness": 0.0029580854900034116,
+      "diversity": 0.08433333333333334
+    },
+    {
+      "generation": 141,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 14200,
+      "mean_fitness": 0.002744926277671672,
+      "diversity": 0.08700000000000001
+    },
+    {
+      "generation": 142,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 14300,
+      "mean_fitness": 0.003155903151536061,
+      "diversity": 0.08566666666666665
+    },
+    {
+      "generation": 143,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 14400,
+      "mean_fitness": 0.0030193071066384014,
+      "diversity": 0.08933333333333333
+    },
+    {
+      "generation": 144,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 14500,
+      "mean_fitness": 0.003093637857490232,
+      "diversity": 0.08433333333333334
+    },
+    {
+      "generation": 145,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 14600,
+      "mean_fitness": 0.0028815501213062707,
+      "diversity": 0.06600000000000002
+    },
+    {
+      "generation": 146,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 14700,
+      "mean_fitness": 0.0028780320610314503,
+      "diversity": 0.07233333333333333
+    },
+    {
+      "generation": 147,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 14800,
+      "mean_fitness": 0.0028765975421912397,
+      "diversity": 0.07200000000000001
+    },
+    {
+      "generation": 148,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 14900,
+      "mean_fitness": 0.00322818293052031,
+      "diversity": 0.06866666666666668
+    },
+    {
+      "generation": 149,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 15000,
+      "mean_fitness": 0.003175781460425971,
+      "diversity": 0.06766666666666668
+    },
+    {
+      "generation": 150,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 15100,
+      "mean_fitness": 0.0027409106787148717,
+      "diversity": 0.07533333333333332
+    },
+    {
+      "generation": 151,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 15200,
+      "mean_fitness": 0.002999166449867455,
+      "diversity": 0.07400000000000002
+    },
+    {
+      "generation": 152,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 15300,
+      "mean_fitness": 0.0031442772786096727,
+      "diversity": 0.07233333333333335
+    },
+    {
+      "generation": 153,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 15400,
+      "mean_fitness": 0.002616106589181286,
+      "diversity": 0.07500000000000001
+    },
+    {
+      "generation": 154,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 15500,
+      "mean_fitness": 0.0028468939901766166,
+      "diversity": 0.07866666666666668
+    },
+    {
+      "generation": 155,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 15600,
+      "mean_fitness": 0.0027271755571483362,
+      "diversity": 0.08966666666666666
+    },
+    {
+      "generation": 156,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 15700,
+      "mean_fitness": 0.002828466441936562,
+      "diversity": 0.075
+    },
+    {
+      "generation": 157,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 15800,
+      "mean_fitness": 0.002603775162528873,
+      "diversity": 0.08033333333333334
+    },
+    {
+      "generation": 158,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 15900,
+      "mean_fitness": 0.00287580710508966,
+      "diversity": 0.07600000000000001
+    },
+    {
+      "generation": 159,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 16000,
+      "mean_fitness": 0.002849262441850589,
+      "diversity": 0.06666666666666668
+    },
+    {
+      "generation": 160,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 16100,
+      "mean_fitness": 0.003086907681405332,
+      "diversity": 0.061666666666666675
+    },
+    {
+      "generation": 161,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 16200,
+      "mean_fitness": 0.0028980283096003714,
+      "diversity": 0.07
+    },
+    {
+      "generation": 162,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 16300,
+      "mean_fitness": 0.002568466186830241,
+      "diversity": 0.08033333333333333
+    },
+    {
+      "generation": 163,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 16400,
+      "mean_fitness": 0.00368939398373454,
+      "diversity": 0.08133333333333333
+    },
+    {
+      "generation": 164,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 16500,
+      "mean_fitness": 0.003163566502147315,
+      "diversity": 0.07933333333333333
+    },
+    {
+      "generation": 165,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 16600,
+      "mean_fitness": 0.002817063979884708,
+      "diversity": 0.082
+    },
+    {
+      "generation": 166,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 16700,
+      "mean_fitness": 0.003118998089981145,
+      "diversity": 0.071
+    },
+    {
+      "generation": 167,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 16800,
+      "mean_fitness": 0.002478307783782715,
+      "diversity": 0.079
+    },
+    {
+      "generation": 168,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 16900,
+      "mean_fitness": 0.002997165683897804,
+      "diversity": 0.07433333333333333
+    },
+    {
+      "generation": 169,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 17000,
+      "mean_fitness": 0.00287753573774444,
+      "diversity": 0.08466666666666667
+    },
+    {
+      "generation": 170,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 17100,
+      "mean_fitness": 0.0024335123264104083,
+      "diversity": 0.08533333333333333
+    },
+    {
+      "generation": 171,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 17200,
+      "mean_fitness": 0.0022965726264147675,
+      "diversity": 0.09066666666666666
+    },
+    {
+      "generation": 172,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 17300,
+      "mean_fitness": 0.0022308285091361397,
+      "diversity": 0.09366666666666666
+    },
+    {
+      "generation": 173,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 17400,
+      "mean_fitness": 0.002309524498326844,
+      "diversity": 0.10833333333333334
+    },
+    {
+      "generation": 174,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 17500,
+      "mean_fitness": 0.003128251563853669,
+      "diversity": 0.09033333333333333
+    },
+    {
+      "generation": 175,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 17600,
+      "mean_fitness": 0.00248072907258947,
+      "diversity": 0.09266666666666667
+    },
+    {
+      "generation": 176,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 17700,
+      "mean_fitness": 0.003078150001680156,
+      "diversity": 0.09799999999999999
+    },
+    {
+      "generation": 177,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 17800,
+      "mean_fitness": 0.002505397015702908,
+      "diversity": 0.09366666666666665
+    },
+    {
+      "generation": 178,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 17900,
+      "mean_fitness": 0.002804235752811004,
+      "diversity": 0.09433333333333334
+    },
+    {
+      "generation": 179,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 18000,
+      "mean_fitness": 0.003028993335527843,
+      "diversity": 0.08133333333333334
+    },
+    {
+      "generation": 180,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 18100,
+      "mean_fitness": 0.002950493772093764,
+      "diversity": 0.07733333333333332
+    },
+    {
+      "generation": 181,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 18200,
+      "mean_fitness": 0.002333895219339908,
+      "diversity": 0.09133333333333334
+    },
+    {
+      "generation": 182,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 18300,
+      "mean_fitness": 0.0025730674064129637,
+      "diversity": 0.08833333333333333
+    },
+    {
+      "generation": 183,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 18400,
+      "mean_fitness": 0.003017646056205232,
+      "diversity": 0.08866666666666667
+    },
+    {
+      "generation": 184,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 18500,
+      "mean_fitness": 0.002290516002526324,
+      "diversity": 0.08600000000000001
+    },
+    {
+      "generation": 185,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 18600,
+      "mean_fitness": 0.0025409328606870326,
+      "diversity": 0.08066666666666666
+    },
+    {
+      "generation": 186,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 18700,
+      "mean_fitness": 0.002440890829853114,
+      "diversity": 0.07733333333333334
+    },
+    {
+      "generation": 187,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 18800,
+      "mean_fitness": 0.0029354306862163777,
+      "diversity": 0.08399999999999999
+    },
+    {
+      "generation": 188,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 18900,
+      "mean_fitness": 0.0025605843361283737,
+      "diversity": 0.09633333333333333
+    },
+    {
+      "generation": 189,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 19000,
+      "mean_fitness": 0.0027692362713342992,
+      "diversity": 0.09366666666666666
+    },
+    {
+      "generation": 190,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 19100,
+      "mean_fitness": 0.002809920252063176,
+      "diversity": 0.09766666666666667
+    },
+    {
+      "generation": 191,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 19200,
+      "mean_fitness": 0.0030952300736749572,
+      "diversity": 0.08933333333333332
+    },
+    {
+      "generation": 192,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 19300,
+      "mean_fitness": 0.003165338553703176,
+      "diversity": 0.08600000000000001
+    },
+    {
+      "generation": 193,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 19400,
+      "mean_fitness": 0.003156182105495699,
+      "diversity": 0.08166666666666668
+    },
+    {
+      "generation": 194,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 19500,
+      "mean_fitness": 0.002617476137694709,
+      "diversity": 0.09166666666666666
+    },
+    {
+      "generation": 195,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 19600,
+      "mean_fitness": 0.0027404491196418306,
+      "diversity": 0.089
+    },
+    {
+      "generation": 196,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 19700,
+      "mean_fitness": 0.0027870765524629186,
+      "diversity": 0.09266666666666666
+    },
+    {
+      "generation": 197,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 19800,
+      "mean_fitness": 0.0027017841540548488,
+      "diversity": 0.08766666666666666
+    },
+    {
+      "generation": 198,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 19900,
+      "mean_fitness": 0.003039402204168437,
+      "diversity": 0.08833333333333335
+    },
+    {
+      "generation": 199,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 20000,
+      "mean_fitness": 0.0026460846889433693,
+      "diversity": 0.082
+    },
+    {
+      "generation": 200,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 20100,
+      "mean_fitness": 0.0023376343157543223,
+      "diversity": 0.09166666666666666
+    },
+    {
+      "generation": 201,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 20200,
+      "mean_fitness": 0.0026569200906103856,
+      "diversity": 0.07266666666666666
+    },
+    {
+      "generation": 202,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 20300,
+      "mean_fitness": 0.0030571683120555475,
+      "diversity": 0.06800000000000002
+    },
+    {
+      "generation": 203,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 20400,
+      "mean_fitness": 0.0031839152690124072,
+      "diversity": 0.07166666666666668
+    },
+    {
+      "generation": 204,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 20500,
+      "mean_fitness": 0.003123366145496709,
+      "diversity": 0.075
+    },
+    {
+      "generation": 205,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 20600,
+      "mean_fitness": 0.0033517868419398085,
+      "diversity": 0.07666666666666666
+    },
+    {
+      "generation": 206,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 20700,
+      "mean_fitness": 0.0030683847821853004,
+      "diversity": 0.079
+    },
+    {
+      "generation": 207,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 20800,
+      "mean_fitness": 0.002789363755409554,
+      "diversity": 0.08933333333333332
+    },
+    {
+      "generation": 208,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 20900,
+      "mean_fitness": 0.0029409173498760118,
+      "diversity": 0.09633333333333334
+    },
+    {
+      "generation": 209,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 21000,
+      "mean_fitness": 0.0028063313658531195,
+      "diversity": 0.09133333333333334
+    },
+    {
+      "generation": 210,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 21100,
+      "mean_fitness": 0.002698200471869521,
+      "diversity": 0.09866666666666667
+    },
+    {
+      "generation": 211,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 21200,
+      "mean_fitness": 0.0026287166192164287,
+      "diversity": 0.106
+    },
+    {
+      "generation": 212,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 21300,
+      "mean_fitness": 0.0026446251200698974,
+      "diversity": 0.08700000000000001
+    },
+    {
+      "generation": 213,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 21400,
+      "mean_fitness": 0.002870821835596215,
+      "diversity": 0.09266666666666666
+    },
+    {
+      "generation": 214,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 21500,
+      "mean_fitness": 0.0028539257284365183,
+      "diversity": 0.08166666666666665
+    },
+    {
+      "generation": 215,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 21600,
+      "mean_fitness": 0.002773877831861046,
+      "diversity": 0.09133333333333332
+    },
+    {
+      "generation": 216,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 21700,
+      "mean_fitness": 0.002665240634011122,
+      "diversity": 0.097
+    },
+    {
+      "generation": 217,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 21800,
+      "mean_fitness": 0.0028894249318413175,
+      "diversity": 0.09066666666666666
+    },
+    {
+      "generation": 218,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 21900,
+      "mean_fitness": 0.0025422749316858966,
+      "diversity": 0.07366666666666667
+    },
+    {
+      "generation": 219,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 22000,
+      "mean_fitness": 0.0025758029266550043,
+      "diversity": 0.08499999999999999
+    },
+    {
+      "generation": 220,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 22100,
+      "mean_fitness": 0.0028982531375364704,
+      "diversity": 0.07866666666666668
+    },
+    {
+      "generation": 221,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 22200,
+      "mean_fitness": 0.003120265708712306,
+      "diversity": 0.07400000000000002
+    },
+    {
+      "generation": 222,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 22300,
+      "mean_fitness": 0.0028714701254628342,
+      "diversity": 0.08466666666666667
+    },
+    {
+      "generation": 223,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 22400,
+      "mean_fitness": 0.0028720867742760476,
+      "diversity": 0.08966666666666666
+    },
+    {
+      "generation": 224,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 22500,
+      "mean_fitness": 0.002851852382620311,
+      "diversity": 0.08033333333333334
+    },
+    {
+      "generation": 225,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 22600,
+      "mean_fitness": 0.0026621633194085816,
+      "diversity": 0.08266666666666668
+    },
+    {
+      "generation": 226,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 22700,
+      "mean_fitness": 0.0030465890828751223,
+      "diversity": 0.078
+    },
+    {
+      "generation": 227,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 22800,
+      "mean_fitness": 0.002652855432016961,
+      "diversity": 0.071
+    },
+    {
+      "generation": 228,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 22900,
+      "mean_fitness": 0.003383394706549125,
+      "diversity": 0.06633333333333333
+    },
+    {
+      "generation": 229,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 23000,
+      "mean_fitness": 0.0029175835223834374,
+      "diversity": 0.07233333333333333
+    },
+    {
+      "generation": 230,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 23100,
+      "mean_fitness": 0.002572538264794717,
+      "diversity": 0.07966666666666668
+    },
+    {
+      "generation": 231,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 23200,
+      "mean_fitness": 0.0023312187745365776,
+      "diversity": 0.093
+    },
+    {
+      "generation": 232,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 23300,
+      "mean_fitness": 0.002725583023229837,
+      "diversity": 0.08533333333333334
+    },
+    {
+      "generation": 233,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 23400,
+      "mean_fitness": 0.00285827525562605,
+      "diversity": 0.08933333333333332
+    },
+    {
+      "generation": 234,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 23500,
+      "mean_fitness": 0.002971284407949909,
+      "diversity": 0.08233333333333334
+    },
+    {
+      "generation": 235,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 23600,
+      "mean_fitness": 0.0029454726981007016,
+      "diversity": 0.07666666666666667
+    },
+    {
+      "generation": 236,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 23700,
+      "mean_fitness": 0.002423346937604618,
+      "diversity": 0.08133333333333333
+    },
+    {
+      "generation": 237,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 23800,
+      "mean_fitness": 0.0026886615257109055,
+      "diversity": 0.07933333333333333
+    },
+    {
+      "generation": 238,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 23900,
+      "mean_fitness": 0.002372028342057592,
+      "diversity": 0.08433333333333334
+    },
+    {
+      "generation": 239,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 24000,
+      "mean_fitness": 0.0026861995523662246,
+      "diversity": 0.09166666666666666
+    },
+    {
+      "generation": 240,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 24100,
+      "mean_fitness": 0.0029410700237951803,
+      "diversity": 0.09566666666666666
+    },
+    {
+      "generation": 241,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 24200,
+      "mean_fitness": 0.002889257890348428,
+      "diversity": 0.08833333333333333
+    },
+    {
+      "generation": 242,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 24300,
+      "mean_fitness": 0.0029145344265750646,
+      "diversity": 0.08600000000000001
+    },
+    {
+      "generation": 243,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 24400,
+      "mean_fitness": 0.0027461103043285072,
+      "diversity": 0.09533333333333333
+    },
+    {
+      "generation": 244,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 24500,
+      "mean_fitness": 0.002399901130333118,
+      "diversity": 0.107
+    },
+    {
+      "generation": 245,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 24600,
+      "mean_fitness": 0.0027677469541363114,
+      "diversity": 0.094
+    },
+    {
+      "generation": 246,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 24700,
+      "mean_fitness": 0.0029770346778079594,
+      "diversity": 0.07833333333333332
+    },
+    {
+      "generation": 247,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 24800,
+      "mean_fitness": 0.003051546862602821,
+      "diversity": 0.06866666666666668
+    },
+    {
+      "generation": 248,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 24900,
+      "mean_fitness": 0.0029073140850961483,
+      "diversity": 0.07566666666666665
+    },
+    {
+      "generation": 249,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 25000,
+      "mean_fitness": 0.002703968610638109,
+      "diversity": 0.07866666666666668
+    },
+    {
+      "generation": 250,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 25100,
+      "mean_fitness": 0.003105823701795562,
+      "diversity": 0.07766666666666668
+    },
+    {
+      "generation": 251,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 25200,
+      "mean_fitness": 0.0030490910636952616,
+      "diversity": 0.07966666666666668
+    },
+    {
+      "generation": 252,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 25300,
+      "mean_fitness": 0.0029367910605164384,
+      "diversity": 0.08700000000000001
+    },
+    {
+      "generation": 253,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 25400,
+      "mean_fitness": 0.002990934018950828,
+      "diversity": 0.08733333333333333
+    },
+    {
+      "generation": 254,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 25500,
+      "mean_fitness": 0.002833174986988737,
+      "diversity": 0.09066666666666667
+    },
+    {
+      "generation": 255,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 25600,
+      "mean_fitness": 0.00303115864230673,
+      "diversity": 0.08466666666666667
+    },
+    {
+      "generation": 256,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 25700,
+      "mean_fitness": 0.0031149589227317588,
+      "diversity": 0.07233333333333333
+    },
+    {
+      "generation": 257,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 25800,
+      "mean_fitness": 0.002698017252805169,
+      "diversity": 0.07733333333333334
+    },
+    {
+      "generation": 258,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 25900,
+      "mean_fitness": 0.0029513834927012545,
+      "diversity": 0.07666666666666667
+    },
+    {
+      "generation": 259,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 26000,
+      "mean_fitness": 0.00357234409167722,
+      "diversity": 0.08566666666666665
+    },
+    {
+      "generation": 260,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 26100,
+      "mean_fitness": 0.0031282351468572907,
+      "diversity": 0.06666666666666668
+    },
+    {
+      "generation": 261,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 26200,
+      "mean_fitness": 0.002878932508830448,
+      "diversity": 0.07633333333333335
+    },
+    {
+      "generation": 262,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 26300,
+      "mean_fitness": 0.0027108989759991155,
+      "diversity": 0.08666666666666666
+    },
+    {
+      "generation": 263,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 26400,
+      "mean_fitness": 0.002769473911419895,
+      "diversity": 0.08733333333333333
+    },
+    {
+      "generation": 264,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 26500,
+      "mean_fitness": 0.0029083169311850347,
+      "diversity": 0.07966666666666668
+    },
+    {
+      "generation": 265,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 26600,
+      "mean_fitness": 0.0023900944833576566,
+      "diversity": 0.08933333333333332
+    },
+    {
+      "generation": 266,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 26700,
+      "mean_fitness": 0.0028866571786292116,
+      "diversity": 0.08499999999999999
+    },
+    {
+      "generation": 267,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 26800,
+      "mean_fitness": 0.003090293041011446,
+      "diversity": 0.07733333333333334
+    },
+    {
+      "generation": 268,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 26900,
+      "mean_fitness": 0.002968632570899999,
+      "diversity": 0.07866666666666668
+    },
+    {
+      "generation": 269,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 27000,
+      "mean_fitness": 0.0026341506475387856,
+      "diversity": 0.07899999999999999
+    },
+    {
+      "generation": 270,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 27100,
+      "mean_fitness": 0.002765313374806544,
+      "diversity": 0.07733333333333334
+    },
+    {
+      "generation": 271,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 27200,
+      "mean_fitness": 0.002498410200673362,
+      "diversity": 0.08166666666666668
+    },
+    {
+      "generation": 272,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 27300,
+      "mean_fitness": 0.002666302445114679,
+      "diversity": 0.08366666666666665
+    },
+    {
+      "generation": 273,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 27400,
+      "mean_fitness": 0.0031649349049853196,
+      "diversity": 0.07666666666666666
+    },
+    {
+      "generation": 274,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 27500,
+      "mean_fitness": 0.0026246670872208137,
+      "diversity": 0.08033333333333334
+    },
+    {
+      "generation": 275,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 27600,
+      "mean_fitness": 0.0032096008078931833,
+      "diversity": 0.079
+    },
+    {
+      "generation": 276,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 27700,
+      "mean_fitness": 0.0030107135507868787,
+      "diversity": 0.07566666666666669
+    },
+    {
+      "generation": 277,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 27800,
+      "mean_fitness": 0.0025330427220534592,
+      "diversity": 0.08233333333333336
+    },
+    {
+      "generation": 278,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 27900,
+      "mean_fitness": 0.002905180263721996,
+      "diversity": 0.078
+    },
+    {
+      "generation": 279,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 28000,
+      "mean_fitness": 0.003183515979828879,
+      "diversity": 0.07733333333333334
+    },
+    {
+      "generation": 280,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 28100,
+      "mean_fitness": 0.003321770211661421,
+      "diversity": 0.083
+    },
+    {
+      "generation": 281,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 28200,
+      "mean_fitness": 0.0029510334572173933,
+      "diversity": 0.09566666666666666
+    },
+    {
+      "generation": 282,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 28300,
+      "mean_fitness": 0.0033901740675984283,
+      "diversity": 0.08066666666666666
+    },
+    {
+      "generation": 283,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 28400,
+      "mean_fitness": 0.0031289252713806812,
+      "diversity": 0.06866666666666668
+    },
+    {
+      "generation": 284,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 28500,
+      "mean_fitness": 0.0028428461414941298,
+      "diversity": 0.06966666666666668
+    },
+    {
+      "generation": 285,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 28600,
+      "mean_fitness": 0.0027364547984714467,
+      "diversity": 0.06933333333333333
+    },
+    {
+      "generation": 286,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 28700,
+      "mean_fitness": 0.0024784730332519235,
+      "diversity": 0.07266666666666667
+    },
+    {
+      "generation": 287,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 28800,
+      "mean_fitness": 0.0028215412216429448,
+      "diversity": 0.07866666666666666
+    },
+    {
+      "generation": 288,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 28900,
+      "mean_fitness": 0.0025007072344782623,
+      "diversity": 0.08233333333333334
+    },
+    {
+      "generation": 289,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 29000,
+      "mean_fitness": 0.0028394686444177097,
+      "diversity": 0.08600000000000001
+    },
+    {
+      "generation": 290,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 29100,
+      "mean_fitness": 0.002751467567337535,
+      "diversity": 0.09100000000000001
+    },
+    {
+      "generation": 291,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 29200,
+      "mean_fitness": 0.0026396895558561547,
+      "diversity": 0.08733333333333333
+    },
+    {
+      "generation": 292,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 29300,
+      "mean_fitness": 0.0027825762952765217,
+      "diversity": 0.07566666666666667
+    },
+    {
+      "generation": 293,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 29400,
+      "mean_fitness": 0.002757051583522389,
+      "diversity": 0.07566666666666665
+    },
+    {
+      "generation": 294,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 29500,
+      "mean_fitness": 0.003061182477299543,
+      "diversity": 0.07200000000000001
+    },
+    {
+      "generation": 295,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 29600,
+      "mean_fitness": 0.0030399554794896854,
+      "diversity": 0.06966666666666668
+    },
+    {
+      "generation": 296,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 29700,
+      "mean_fitness": 0.0026733092671911186,
+      "diversity": 0.07666666666666666
+    },
+    {
+      "generation": 297,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 29800,
+      "mean_fitness": 0.0031028929510601233,
+      "diversity": 0.08100000000000002
+    },
+    {
+      "generation": 298,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 29900,
+      "mean_fitness": 0.002849063505656866,
+      "diversity": 0.07933333333333334
+    },
+    {
+      "generation": 299,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 30000,
+      "mean_fitness": 0.003120525203265029,
+      "diversity": 0.06366666666666668
+    },
+    {
+      "generation": 300,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 30100,
+      "mean_fitness": 0.0030217324850522675,
+      "diversity": 0.058666666666666686
+    },
+    {
+      "generation": 301,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 30200,
+      "mean_fitness": 0.0031504327822710993,
+      "diversity": 0.07
+    },
+    {
+      "generation": 302,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 30300,
+      "mean_fitness": 0.002823396040488073,
+      "diversity": 0.07566666666666667
+    },
+    {
+      "generation": 303,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 30400,
+      "mean_fitness": 0.002770318277160778,
+      "diversity": 0.08033333333333334
+    },
+    {
+      "generation": 304,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 30500,
+      "mean_fitness": 0.0027890155916251032,
+      "diversity": 0.08033333333333333
+    },
+    {
+      "generation": 305,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 30600,
+      "mean_fitness": 0.0030473159215836042,
+      "diversity": 0.07333333333333333
+    },
+    {
+      "generation": 306,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 30700,
+      "mean_fitness": 0.002799211598465329,
+      "diversity": 0.079
+    },
+    {
+      "generation": 307,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 30800,
+      "mean_fitness": 0.0022879946089758908,
+      "diversity": 0.1
+    },
+    {
+      "generation": 308,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 30900,
+      "mean_fitness": 0.002708426884978361,
+      "diversity": 0.096
+    },
+    {
+      "generation": 309,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 31000,
+      "mean_fitness": 0.0026664284742842054,
+      "diversity": 0.09433333333333334
+    },
+    {
+      "generation": 310,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 31100,
+      "mean_fitness": 0.002828777184914184,
+      "diversity": 0.10566666666666664
+    },
+    {
+      "generation": 311,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 31200,
+      "mean_fitness": 0.0030193527625605927,
+      "diversity": 0.093
+    },
+    {
+      "generation": 312,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 31300,
+      "mean_fitness": 0.002504602883962191,
+      "diversity": 0.09533333333333333
+    },
+    {
+      "generation": 313,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 31400,
+      "mean_fitness": 0.0025282658614876304,
+      "diversity": 0.08533333333333333
+    },
+    {
+      "generation": 314,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 31500,
+      "mean_fitness": 0.0027911569194847535,
+      "diversity": 0.08266666666666667
+    },
+    {
+      "generation": 315,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 31600,
+      "mean_fitness": 0.003319694617322659,
+      "diversity": 0.06866666666666667
+    },
+    {
+      "generation": 316,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 31700,
+      "mean_fitness": 0.003283336440425126,
+      "diversity": 0.06700000000000002
+    },
+    {
+      "generation": 317,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 31800,
+      "mean_fitness": 0.0026158089945085613,
+      "diversity": 0.07866666666666666
+    },
+    {
+      "generation": 318,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 31900,
+      "mean_fitness": 0.0024518172892916586,
+      "diversity": 0.07533333333333335
+    },
+    {
+      "generation": 319,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 32000,
+      "mean_fitness": 0.0025152096893024606,
+      "diversity": 0.08533333333333332
+    },
+    {
+      "generation": 320,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 32100,
+      "mean_fitness": 0.002825371266966164,
+      "diversity": 0.079
+    },
+    {
+      "generation": 321,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 32200,
+      "mean_fitness": 0.002728618328446285,
+      "diversity": 0.08233333333333334
+    },
+    {
+      "generation": 322,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 32300,
+      "mean_fitness": 0.0028550240473948856,
+      "diversity": 0.08066666666666666
+    },
+    {
+      "generation": 323,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 32400,
+      "mean_fitness": 0.0031682338986160686,
+      "diversity": 0.07166666666666668
+    },
+    {
+      "generation": 324,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 32500,
+      "mean_fitness": 0.003248544492973363,
+      "diversity": 0.074
+    },
+    {
+      "generation": 325,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 32600,
+      "mean_fitness": 0.002739198782583268,
+      "diversity": 0.07266666666666666
+    },
+    {
+      "generation": 326,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 32700,
+      "mean_fitness": 0.0028367052336932957,
+      "diversity": 0.079
+    },
+    {
+      "generation": 327,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 32800,
+      "mean_fitness": 0.0033660792917970307,
+      "diversity": 0.08499999999999999
+    },
+    {
+      "generation": 328,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 32900,
+      "mean_fitness": 0.0029380177498455674,
+      "diversity": 0.08099999999999999
+    },
+    {
+      "generation": 329,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 33000,
+      "mean_fitness": 0.0030095752845065897,
+      "diversity": 0.09100000000000001
+    },
+    {
+      "generation": 330,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 33100,
+      "mean_fitness": 0.003001542456473079,
+      "diversity": 0.08933333333333333
+    },
+    {
+      "generation": 331,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 33200,
+      "mean_fitness": 0.0033082420126819573,
+      "diversity": 0.085
+    },
+    {
+      "generation": 332,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 33300,
+      "mean_fitness": 0.002535199884285535,
+      "diversity": 0.08533333333333333
+    },
+    {
+      "generation": 333,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 33400,
+      "mean_fitness": 0.002512797441067024,
+      "diversity": 0.094
+    },
+    {
+      "generation": 334,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 33500,
+      "mean_fitness": 0.0033107888538680967,
+      "diversity": 0.08666666666666667
+    },
+    {
+      "generation": 335,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 33600,
+      "mean_fitness": 0.0033198631578113093,
+      "diversity": 0.079
+    },
+    {
+      "generation": 336,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 33700,
+      "mean_fitness": 0.0030121137270244453,
+      "diversity": 0.07533333333333335
+    },
+    {
+      "generation": 337,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 33800,
+      "mean_fitness": 0.0031136875925411524,
+      "diversity": 0.08299999999999999
+    },
+    {
+      "generation": 338,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 33900,
+      "mean_fitness": 0.002772725868222548,
+      "diversity": 0.09466666666666666
+    },
+    {
+      "generation": 339,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 34000,
+      "mean_fitness": 0.0025714563838455874,
+      "diversity": 0.101
+    },
+    {
+      "generation": 340,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 34100,
+      "mean_fitness": 0.0026231438873359895,
+      "diversity": 0.096
+    },
+    {
+      "generation": 341,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 34200,
+      "mean_fitness": 0.002485687638610401,
+      "diversity": 0.08499999999999999
+    },
+    {
+      "generation": 342,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 34300,
+      "mean_fitness": 0.0025973694640683298,
+      "diversity": 0.08533333333333334
+    },
+    {
+      "generation": 343,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 34400,
+      "mean_fitness": 0.0029120348421958295,
+      "diversity": 0.07400000000000001
+    },
+    {
+      "generation": 344,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 34500,
+      "mean_fitness": 0.002789970574156564,
+      "diversity": 0.08133333333333333
+    },
+    {
+      "generation": 345,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 34600,
+      "mean_fitness": 0.002923777383105329,
+      "diversity": 0.089
+    },
+    {
+      "generation": 346,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 34700,
+      "mean_fitness": 0.0028115178889783045,
+      "diversity": 0.09000000000000001
+    },
+    {
+      "generation": 347,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 34800,
+      "mean_fitness": 0.0029262053648923957,
+      "diversity": 0.088
+    },
+    {
+      "generation": 348,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 34900,
+      "mean_fitness": 0.003029769379745504,
+      "diversity": 0.08533333333333333
+    },
+    {
+      "generation": 349,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 35000,
+      "mean_fitness": 0.002443613040296191,
+      "diversity": 0.08733333333333333
+    },
+    {
+      "generation": 350,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 35100,
+      "mean_fitness": 0.002985249640691346,
+      "diversity": 0.08400000000000002
+    },
+    {
+      "generation": 351,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 35200,
+      "mean_fitness": 0.0029616166617431154,
+      "diversity": 0.07033333333333334
+    },
+    {
+      "generation": 352,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 35300,
+      "mean_fitness": 0.0030345223879286024,
+      "diversity": 0.06700000000000002
+    },
+    {
+      "generation": 353,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 35400,
+      "mean_fitness": 0.003215837262143377,
+      "diversity": 0.06766666666666668
+    },
+    {
+      "generation": 354,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 35500,
+      "mean_fitness": 0.0028368313686355216,
+      "diversity": 0.07333333333333333
+    },
+    {
+      "generation": 355,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 35600,
+      "mean_fitness": 0.0032036773844774406,
+      "diversity": 0.07633333333333334
+    },
+    {
+      "generation": 356,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 35700,
+      "mean_fitness": 0.0033847388650174383,
+      "diversity": 0.07666666666666666
+    },
+    {
+      "generation": 357,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 35800,
+      "mean_fitness": 0.002517559421788977,
+      "diversity": 0.08366666666666665
+    },
+    {
+      "generation": 358,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 35900,
+      "mean_fitness": 0.002715211239969219,
+      "diversity": 0.083
+    },
+    {
+      "generation": 359,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 36000,
+      "mean_fitness": 0.0024685128369775254,
+      "diversity": 0.08966666666666666
+    },
+    {
+      "generation": 360,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 36100,
+      "mean_fitness": 0.0026947587749681433,
+      "diversity": 0.09566666666666666
+    },
+    {
+      "generation": 361,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 36200,
+      "mean_fitness": 0.0027236460955636778,
+      "diversity": 0.10733333333333332
+    },
+    {
+      "generation": 362,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 36300,
+      "mean_fitness": 0.00320941243028251,
+      "diversity": 0.09099999999999998
+    },
+    {
+      "generation": 363,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 36400,
+      "mean_fitness": 0.002827482020056734,
+      "diversity": 0.083
+    },
+    {
+      "generation": 364,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 36500,
+      "mean_fitness": 0.002660492771305945,
+      "diversity": 0.08833333333333333
+    },
+    {
+      "generation": 365,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 36600,
+      "mean_fitness": 0.0031389078786613627,
+      "diversity": 0.07166666666666668
+    },
+    {
+      "generation": 366,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 36700,
+      "mean_fitness": 0.002767875361686152,
+      "diversity": 0.07466666666666667
+    },
+    {
+      "generation": 367,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 36800,
+      "mean_fitness": 0.002655312565293203,
+      "diversity": 0.092
+    },
+    {
+      "generation": 368,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 36900,
+      "mean_fitness": 0.00265662420823573,
+      "diversity": 0.08233333333333334
+    },
+    {
+      "generation": 369,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 37000,
+      "mean_fitness": 0.003241332044311094,
+      "diversity": 0.07833333333333332
+    },
+    {
+      "generation": 370,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 37100,
+      "mean_fitness": 0.0029898060266846343,
+      "diversity": 0.07533333333333334
+    },
+    {
+      "generation": 371,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 37200,
+      "mean_fitness": 0.0030389079534147195,
+      "diversity": 0.07433333333333332
+    },
+    {
+      "generation": 372,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 37300,
+      "mean_fitness": 0.0032632357130333205,
+      "diversity": 0.07033333333333334
+    },
+    {
+      "generation": 373,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 37400,
+      "mean_fitness": 0.002832954148501987,
+      "diversity": 0.07766666666666668
+    },
+    {
+      "generation": 374,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 37500,
+      "mean_fitness": 0.0025209410547982892,
+      "diversity": 0.08166666666666665
+    },
+    {
+      "generation": 375,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 37600,
+      "mean_fitness": 0.0029447742573280246,
+      "diversity": 0.087
+    },
+    {
+      "generation": 376,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 37700,
+      "mean_fitness": 0.002805284813780029,
+      "diversity": 0.08333333333333333
+    },
+    {
+      "generation": 377,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 37800,
+      "mean_fitness": 0.0028784412697207573,
+      "diversity": 0.09166666666666666
+    },
+    {
+      "generation": 378,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 37900,
+      "mean_fitness": 0.00282056419630495,
+      "diversity": 0.07933333333333333
+    },
+    {
+      "generation": 379,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 38000,
+      "mean_fitness": 0.003189640500803018,
+      "diversity": 0.074
+    },
+    {
+      "generation": 380,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 38100,
+      "mean_fitness": 0.0029351830818095453,
+      "diversity": 0.079
+    },
+    {
+      "generation": 381,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 38200,
+      "mean_fitness": 0.0027993910708012082,
+      "diversity": 0.08533333333333333
+    },
+    {
+      "generation": 382,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 38300,
+      "mean_fitness": 0.0024482361337951897,
+      "diversity": 0.08499999999999999
+    },
+    {
+      "generation": 383,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 38400,
+      "mean_fitness": 0.002652501074011057,
+      "diversity": 0.09066666666666667
+    },
+    {
+      "generation": 384,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 38500,
+      "mean_fitness": 0.0024985768592535695,
+      "diversity": 0.08600000000000001
+    },
+    {
+      "generation": 385,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 38600,
+      "mean_fitness": 0.0026375948792275354,
+      "diversity": 0.08433333333333334
+    },
+    {
+      "generation": 386,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 38700,
+      "mean_fitness": 0.002961531305696198,
+      "diversity": 0.079
+    },
+    {
+      "generation": 387,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 38800,
+      "mean_fitness": 0.0028718694875750957,
+      "diversity": 0.08433333333333334
+    },
+    {
+      "generation": 388,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 38900,
+      "mean_fitness": 0.0024925905136202946,
+      "diversity": 0.09933333333333332
+    },
+    {
+      "generation": 389,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 39000,
+      "mean_fitness": 0.002596336850211842,
+      "diversity": 0.09633333333333333
+    },
+    {
+      "generation": 390,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 39100,
+      "mean_fitness": 0.0027975584015110556,
+      "diversity": 0.09133333333333334
+    },
+    {
+      "generation": 391,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 39200,
+      "mean_fitness": 0.0028014261318442106,
+      "diversity": 0.08566666666666668
+    },
+    {
+      "generation": 392,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 39300,
+      "mean_fitness": 0.003060528875276927,
+      "diversity": 0.08166666666666669
+    },
+    {
+      "generation": 393,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 39400,
+      "mean_fitness": 0.0029558268218172917,
+      "diversity": 0.08533333333333333
+    },
+    {
+      "generation": 394,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 39500,
+      "mean_fitness": 0.0027395301988569236,
+      "diversity": 0.07666666666666667
+    },
+    {
+      "generation": 395,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 39600,
+      "mean_fitness": 0.0028689077371473197,
+      "diversity": 0.074
+    },
+    {
+      "generation": 396,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 39700,
+      "mean_fitness": 0.0031650233377879477,
+      "diversity": 0.07633333333333334
+    },
+    {
+      "generation": 397,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 39800,
+      "mean_fitness": 0.002888359104763394,
+      "diversity": 0.07233333333333335
+    },
+    {
+      "generation": 398,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 39900,
+      "mean_fitness": 0.002442724691298755,
+      "diversity": 0.07133333333333333
+    },
+    {
+      "generation": 399,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 40000,
+      "mean_fitness": 0.0026909444131831732,
+      "diversity": 0.077
+    },
+    {
+      "generation": 400,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 40100,
+      "mean_fitness": 0.0027586195018858587,
+      "diversity": 0.07266666666666667
+    },
+    {
+      "generation": 401,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 40200,
+      "mean_fitness": 0.0024485337220773924,
+      "diversity": 0.07666666666666669
+    },
+    {
+      "generation": 402,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 40300,
+      "mean_fitness": 0.0028125866065543594,
+      "diversity": 0.078
+    },
+    {
+      "generation": 403,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 40400,
+      "mean_fitness": 0.0029840678877577883,
+      "diversity": 0.068
+    },
+    {
+      "generation": 404,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 40500,
+      "mean_fitness": 0.0028651979076884417,
+      "diversity": 0.075
+    },
+    {
+      "generation": 405,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 40600,
+      "mean_fitness": 0.0026038399172753023,
+      "diversity": 0.07733333333333334
+    },
+    {
+      "generation": 406,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 40700,
+      "mean_fitness": 0.0027137102916294166,
+      "diversity": 0.08566666666666668
+    },
+    {
+      "generation": 407,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 40800,
+      "mean_fitness": 0.0022421610290842406,
+      "diversity": 0.089
+    },
+    {
+      "generation": 408,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 40900,
+      "mean_fitness": 0.00250180291933331,
+      "diversity": 0.09366666666666666
+    },
+    {
+      "generation": 409,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 41000,
+      "mean_fitness": 0.002799399858342088,
+      "diversity": 0.09233333333333334
+    },
+    {
+      "generation": 410,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 41100,
+      "mean_fitness": 0.003075707134258884,
+      "diversity": 0.08666666666666667
+    },
+    {
+      "generation": 411,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 41200,
+      "mean_fitness": 0.0029552958622260173,
+      "diversity": 0.075
+    },
+    {
+      "generation": 412,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 41300,
+      "mean_fitness": 0.002742790947981532,
+      "diversity": 0.07733333333333332
+    },
+    {
+      "generation": 413,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 41400,
+      "mean_fitness": 0.0029939069114248724,
+      "diversity": 0.08800000000000001
+    },
+    {
+      "generation": 414,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 41500,
+      "mean_fitness": 0.0025245484291084867,
+      "diversity": 0.09699999999999999
+    },
+    {
+      "generation": 415,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 41600,
+      "mean_fitness": 0.0027076753475436684,
+      "diversity": 0.09766666666666667
+    },
+    {
+      "generation": 416,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 41700,
+      "mean_fitness": 0.002605626469024914,
+      "diversity": 0.08666666666666667
+    },
+    {
+      "generation": 417,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 41800,
+      "mean_fitness": 0.0026120421437589355,
+      "diversity": 0.08533333333333334
+    },
+    {
+      "generation": 418,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 41900,
+      "mean_fitness": 0.003229217548916807,
+      "diversity": 0.07466666666666667
+    },
+    {
+      "generation": 419,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 42000,
+      "mean_fitness": 0.0028634917671977417,
+      "diversity": 0.09033333333333333
+    },
+    {
+      "generation": 420,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 42100,
+      "mean_fitness": 0.0030848733269824343,
+      "diversity": 0.07866666666666668
+    },
+    {
+      "generation": 421,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 42200,
+      "mean_fitness": 0.0030388870669538935,
+      "diversity": 0.07266666666666666
+    },
+    {
+      "generation": 422,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 42300,
+      "mean_fitness": 0.0028723028781847525,
+      "diversity": 0.07466666666666667
+    },
+    {
+      "generation": 423,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 42400,
+      "mean_fitness": 0.003094137619368389,
+      "diversity": 0.07633333333333334
+    },
+    {
+      "generation": 424,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 42500,
+      "mean_fitness": 0.0031058617899589504,
+      "diversity": 0.07566666666666669
+    },
+    {
+      "generation": 425,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 42600,
+      "mean_fitness": 0.00265882283334655,
+      "diversity": 0.09
+    },
+    {
+      "generation": 426,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 42700,
+      "mean_fitness": 0.0030399766685395508,
+      "diversity": 0.09366666666666666
+    },
+    {
+      "generation": 427,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 42800,
+      "mean_fitness": 0.0026423467879747183,
+      "diversity": 0.09833333333333334
+    },
+    {
+      "generation": 428,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 42900,
+      "mean_fitness": 0.0029352423887243177,
+      "diversity": 0.07866666666666668
+    },
+    {
+      "generation": 429,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 43000,
+      "mean_fitness": 0.002925367680642778,
+      "diversity": 0.082
+    },
+    {
+      "generation": 430,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 43100,
+      "mean_fitness": 0.0028847963221064286,
+      "diversity": 0.08700000000000001
+    },
+    {
+      "generation": 431,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 43200,
+      "mean_fitness": 0.0029748555477670507,
+      "diversity": 0.08433333333333334
+    },
+    {
+      "generation": 432,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 43300,
+      "mean_fitness": 0.0028640538323792108,
+      "diversity": 0.08266666666666665
+    },
+    {
+      "generation": 433,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 43400,
+      "mean_fitness": 0.0029884684802652145,
+      "diversity": 0.08066666666666668
+    },
+    {
+      "generation": 434,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 43500,
+      "mean_fitness": 0.002697256023298451,
+      "diversity": 0.08433333333333333
+    },
+    {
+      "generation": 435,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 43600,
+      "mean_fitness": 0.00283035365456443,
+      "diversity": 0.077
+    },
+    {
+      "generation": 436,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 43700,
+      "mean_fitness": 0.002969774216430009,
+      "diversity": 0.08433333333333334
+    },
+    {
+      "generation": 437,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 43800,
+      "mean_fitness": 0.0027696778241235905,
+      "diversity": 0.08966666666666669
+    },
+    {
+      "generation": 438,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 43900,
+      "mean_fitness": 0.0029740766495205146,
+      "diversity": 0.07833333333333332
+    },
+    {
+      "generation": 439,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 44000,
+      "mean_fitness": 0.0026064569389551567,
+      "diversity": 0.09233333333333334
+    },
+    {
+      "generation": 440,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 44100,
+      "mean_fitness": 0.0033584693098703067,
+      "diversity": 0.07500000000000001
+    },
+    {
+      "generation": 441,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 44200,
+      "mean_fitness": 0.0034295392095226034,
+      "diversity": 0.07633333333333335
+    },
+    {
+      "generation": 442,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 44300,
+      "mean_fitness": 0.0029857768948237007,
+      "diversity": 0.073
+    },
+    {
+      "generation": 443,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 44400,
+      "mean_fitness": 0.0028757134020910317,
+      "diversity": 0.07600000000000001
+    },
+    {
+      "generation": 444,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 44500,
+      "mean_fitness": 0.0027981320632177757,
+      "diversity": 0.08733333333333333
+    },
+    {
+      "generation": 445,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 44600,
+      "mean_fitness": 0.002670975120772594,
+      "diversity": 0.08766666666666666
+    },
+    {
+      "generation": 446,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 44700,
+      "mean_fitness": 0.002935426689740914,
+      "diversity": 0.08233333333333333
+    },
+    {
+      "generation": 447,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 44800,
+      "mean_fitness": 0.00311019906699154,
+      "diversity": 0.06933333333333333
+    },
+    {
+      "generation": 448,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 44900,
+      "mean_fitness": 0.003494059943422128,
+      "diversity": 0.06766666666666668
+    },
+    {
+      "generation": 449,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 45000,
+      "mean_fitness": 0.0029903918224288757,
+      "diversity": 0.06300000000000001
+    },
+    {
+      "generation": 450,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 45100,
+      "mean_fitness": 0.0029344514254717245,
+      "diversity": 0.07166666666666668
+    },
+    {
+      "generation": 451,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 45200,
+      "mean_fitness": 0.0022799591971502733,
+      "diversity": 0.08533333333333333
+    },
+    {
+      "generation": 452,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 45300,
+      "mean_fitness": 0.00303310936346609,
+      "diversity": 0.08366666666666665
+    },
+    {
+      "generation": 453,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 45400,
+      "mean_fitness": 0.003420324376789981,
+      "diversity": 0.082
+    },
+    {
+      "generation": 454,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 45500,
+      "mean_fitness": 0.0030621802990518626,
+      "diversity": 0.084
+    },
+    {
+      "generation": 455,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 45600,
+      "mean_fitness": 0.0032296771905777916,
+      "diversity": 0.08099999999999999
+    },
+    {
+      "generation": 456,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 45700,
+      "mean_fitness": 0.003287595784407823,
+      "diversity": 0.07033333333333334
+    },
+    {
+      "generation": 457,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 45800,
+      "mean_fitness": 0.0033478701903714523,
+      "diversity": 0.06600000000000002
+    },
+    {
+      "generation": 458,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 45900,
+      "mean_fitness": 0.0028291479287139583,
+      "diversity": 0.07666666666666666
+    },
+    {
+      "generation": 459,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 46000,
+      "mean_fitness": 0.002783912816108377,
+      "diversity": 0.075
+    },
+    {
+      "generation": 460,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 46100,
+      "mean_fitness": 0.003048189513424923,
+      "diversity": 0.08066666666666666
+    },
+    {
+      "generation": 461,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 46200,
+      "mean_fitness": 0.003031765874790737,
+      "diversity": 0.08700000000000001
+    },
+    {
+      "generation": 462,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 46300,
+      "mean_fitness": 0.002862447119709106,
+      "diversity": 0.09066666666666667
+    },
+    {
+      "generation": 463,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 46400,
+      "mean_fitness": 0.0025902985815742735,
+      "diversity": 0.08666666666666667
+    },
+    {
+      "generation": 464,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 46500,
+      "mean_fitness": 0.0027601708114155083,
+      "diversity": 0.08066666666666666
+    },
+    {
+      "generation": 465,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 46600,
+      "mean_fitness": 0.002893440912256089,
+      "diversity": 0.07866666666666666
+    },
+    {
+      "generation": 466,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 46700,
+      "mean_fitness": 0.0030692611412609233,
+      "diversity": 0.075
+    },
+    {
+      "generation": 467,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 46800,
+      "mean_fitness": 0.0030363894503216493,
+      "diversity": 0.07833333333333334
+    },
+    {
+      "generation": 468,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 46900,
+      "mean_fitness": 0.002614306498595194,
+      "diversity": 0.08633333333333333
+    },
+    {
+      "generation": 469,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 47000,
+      "mean_fitness": 0.0027843192723681527,
+      "diversity": 0.09066666666666667
+    },
+    {
+      "generation": 470,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 47100,
+      "mean_fitness": 0.002802950239012935,
+      "diversity": 0.09000000000000001
+    },
+    {
+      "generation": 471,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 47200,
+      "mean_fitness": 0.0029322169397048435,
+      "diversity": 0.08166666666666668
+    },
+    {
+      "generation": 472,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 47300,
+      "mean_fitness": 0.0029660578045841318,
+      "diversity": 0.08000000000000002
+    },
+    {
+      "generation": 473,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 47400,
+      "mean_fitness": 0.0030929542721931085,
+      "diversity": 0.07466666666666667
+    },
+    {
+      "generation": 474,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 47500,
+      "mean_fitness": 0.003002024245153059,
+      "diversity": 0.07333333333333333
+    },
+    {
+      "generation": 475,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 47600,
+      "mean_fitness": 0.0028676922709720567,
+      "diversity": 0.08266666666666668
+    },
+    {
+      "generation": 476,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 47700,
+      "mean_fitness": 0.002813168815290927,
+      "diversity": 0.08166666666666668
+    },
+    {
+      "generation": 477,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 47800,
+      "mean_fitness": 0.002956801302633016,
+      "diversity": 0.08766666666666666
+    },
+    {
+      "generation": 478,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 47900,
+      "mean_fitness": 0.002341044516424099,
+      "diversity": 0.08833333333333333
+    },
+    {
+      "generation": 479,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 48000,
+      "mean_fitness": 0.002702819943574335,
+      "diversity": 0.082
+    },
+    {
+      "generation": 480,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 48100,
+      "mean_fitness": 0.0028100045177559415,
+      "diversity": 0.07333333333333332
+    },
+    {
+      "generation": 481,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 48200,
+      "mean_fitness": 0.002720667119372977,
+      "diversity": 0.086
+    },
+    {
+      "generation": 482,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 48300,
+      "mean_fitness": 0.0027435942221300134,
+      "diversity": 0.08000000000000002
+    },
+    {
+      "generation": 483,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 48400,
+      "mean_fitness": 0.0029102622892757885,
+      "diversity": 0.07200000000000001
+    },
+    {
+      "generation": 484,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 48500,
+      "mean_fitness": 0.0029538327041338784,
+      "diversity": 0.07366666666666669
+    },
+    {
+      "generation": 485,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 48600,
+      "mean_fitness": 0.003050918845242467,
+      "diversity": 0.07366666666666667
+    },
+    {
+      "generation": 486,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 48700,
+      "mean_fitness": 0.002637013377941132,
+      "diversity": 0.076
+    },
+    {
+      "generation": 487,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 48800,
+      "mean_fitness": 0.003014752704456338,
+      "diversity": 0.06666666666666667
+    },
+    {
+      "generation": 488,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 48900,
+      "mean_fitness": 0.0028316824994229443,
+      "diversity": 0.08666666666666667
+    },
+    {
+      "generation": 489,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 49000,
+      "mean_fitness": 0.002914140991682222,
+      "diversity": 0.099
+    },
+    {
+      "generation": 490,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 49100,
+      "mean_fitness": 0.0032083178661366733,
+      "diversity": 0.1
+    },
+    {
+      "generation": 491,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 49200,
+      "mean_fitness": 0.003212089761520177,
+      "diversity": 0.10833333333333334
+    },
+    {
+      "generation": 492,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 49300,
+      "mean_fitness": 0.002664118426571876,
+      "diversity": 0.11133333333333334
+    },
+    {
+      "generation": 493,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 49400,
+      "mean_fitness": 0.0023842716965926047,
+      "diversity": 0.11066666666666668
+    },
+    {
+      "generation": 494,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 49500,
+      "mean_fitness": 0.0026289862038027193,
+      "diversity": 0.12633333333333333
+    },
+    {
+      "generation": 495,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 49600,
+      "mean_fitness": 0.0031809978171970055,
+      "diversity": 0.12233333333333334
+    },
+    {
+      "generation": 496,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 49700,
+      "mean_fitness": 0.003092325759126401,
+      "diversity": 0.11333333333333331
+    },
+    {
+      "generation": 497,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 49800,
+      "mean_fitness": 0.0026719156931701684,
+      "diversity": 0.11266666666666666
+    },
+    {
+      "generation": 498,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 49900,
+      "mean_fitness": 0.002705708958200913,
+      "diversity": 0.09533333333333334
+    },
+    {
+      "generation": 499,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 50000,
+      "mean_fitness": 0.002473488831943445,
+      "diversity": 0.10166666666666666
+    },
+    {
+      "generation": 500,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 50100,
+      "mean_fitness": 0.00298346357516174,
+      "diversity": 0.08600000000000001
+    }
+  ],
+  "generations": 500,
+  "evaluations": 50100,
+  "runtime": 5.03125,
+  "reason": "maximum generations",
+  "algorithm": "Genetic Algorithm",
+  "config": {
+    "population": 100,
+    "generations": 500,
+    "mutation": 0.05,
+    "crossover": 0.8,
+    "elite_fraction": 0.05,
+    "tournament": 4,
+    "patience": 0,
+    "target_soft": -1,
+    "seed": 1,
+    "selection": "tournament",
+    "crossover_type": "two_point",
+    "mutation_type": "random",
+    "restricted": true
+  }
+}

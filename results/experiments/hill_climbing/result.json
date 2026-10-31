@@ -1,0 +1,4203 @@
+{
+  "chromosome": [
+    [
+      2,
+      1,
+      1
+    ],
+    [
+      3,
+      2,
+      1
+    ],
+    [
+      3,
+      1,
+      1
+    ],
+    [
+      3,
+      1,
+      2
+    ],
+    [
+      4,
+      2,
+      0
+    ],
+    [
+      4,
+      1,
+      1
+    ],
+    [
+      3,
+      2,
+      3
+    ],
+    [
+      4,
+      1,
+      4
+    ],
+    [
+      4,
+      2,
+      5
+    ],
+    [
+      2,
+      2,
+      0
+    ],
+    [
+      1,
+      2,
+      0
+    ],
+    [
+      0,
+      2,
+      4
+    ],
+    [
+      0,
+      1,
+      1
+    ],
+    [
+      4,
+      1,
+      0
+    ],
+    [
+      4,
+      2,
+      2
+    ],
+    [
+      0,
+      2,
+      1
+    ],
+    [
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      2,
+      4
+    ],
+    [
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      2,
+      1
+    ],
+    [
+      3,
+      2,
+      0
+    ],
+    [
+      1,
+      1,
+      2
+    ],
+    [
+      2,
+      2,
+      5
+    ],
+    [
+      1,
+      3,
+      4
+    ],
+    [
+      0,
+      2,
+      0
+    ],
+    [
+      3,
+      1,
+      0
+    ],
+    [
+      3,
+      2,
+      2
+    ],
+    [
+      0,
+      1,
+      4
+    ],
+    [
+      2,
+      1,
+      0
+    ]
+  ],
+  "score": {
+    "hard": 0,
+    "soft": 14,
+    "penalty": 140,
+    "fitness": 0.0070921985815602835,
+    "hard_details": {
+      "instructor_conflict": 0,
+      "room_conflict": 0,
+      "student_conflict": 0,
+      "room_capacity": 0,
+      "room_type": 0,
+      "instructor_availability": 0
+    },
+    "soft_details": {
+      "early_classes": 1,
+      "late_classes": 1,
+      "student_gaps": 0,
+      "instructor_preferences": 0,
+      "group_working_days": 12
+    }
+  },
+  "history": [
+    {
+      "generation": 0,
+      "fitness": 2.1239990654404112e-05,
+      "penalty": 47080,
+      "hard": 19,
+      "soft": 53,
+      "evaluations": 1
+    },
+    {
+      "generation": 99,
+      "fitness": 0.0026246719160104987,
+      "penalty": 380,
+      "hard": 0,
+      "soft": 38,
+      "evaluations": 100
+    },
+    {
+      "generation": 199,
+      "fitness": 0.0036900369003690036,
+      "penalty": 270,
+      "hard": 0,
+      "soft": 27,
+      "evaluations": 200
+    },
+    {
+      "generation": 299,
+      "fitness": 0.004329004329004329,
+      "penalty": 230,
+      "hard": 0,
+      "soft": 23,
+      "evaluations": 300
+    },
+    {
+      "generation": 399,
+      "fitness": 0.004739336492890996,
+      "penalty": 210,
+      "hard": 0,
+      "soft": 21,
+      "evaluations": 400
+    },
+    {
+      "generation": 499,
+      "fitness": 0.004739336492890996,
+      "penalty": 210,
+      "hard": 0,
+      "soft": 21,
+      "evaluations": 500
+    },
+    {
+      "generation": 599,
+      "fitness": 0.004739336492890996,
+      "penalty": 210,
+      "hard": 0,
+      "soft": 21,
+      "evaluations": 600
+    },
+    {
+      "generation": 699,
+      "fitness": 0.004739336492890996,
+      "penalty": 210,
+      "hard": 0,
+      "soft": 21,
+      "evaluations": 700
+    },
+    {
+      "generation": 799,
+      "fitness": 0.004975124378109453,
+      "penalty": 200,
+      "hard": 0,
+      "soft": 20,
+      "evaluations": 800
+    },
+    {
+      "generation": 899,
+      "fitness": 0.005235602094240838,
+      "penalty": 190,
+      "hard": 0,
+      "soft": 19,
+      "evaluations": 900
+    },
+    {
+      "generation": 999,
+      "fitness": 0.005235602094240838,
+      "penalty": 190,
+      "hard": 0,
+      "soft": 19,
+      "evaluations": 1000
+    },
+    {
+      "generation": 1099,
+      "fitness": 0.005235602094240838,
+      "penalty": 190,
+      "hard": 0,
+      "soft": 19,
+      "evaluations": 1100
+    },
+    {
+      "generation": 1199,
+      "fitness": 0.005235602094240838,
+      "penalty": 190,
+      "hard": 0,
+      "soft": 19,
+      "evaluations": 1200
+    },
+    {
+      "generation": 1299,
+      "fitness": 0.005235602094240838,
+      "penalty": 190,
+      "hard": 0,
+      "soft": 19,
+      "evaluations": 1300
+    },
+    {
+      "generation": 1399,
+      "fitness": 0.005235602094240838,
+      "penalty": 190,
+      "hard": 0,
+      "soft": 19,
+      "evaluations": 1400
+    },
+    {
+      "generation": 1499,
+      "fitness": 0.0055248618784530384,
+      "penalty": 180,
+      "hard": 0,
+      "soft": 18,
+      "evaluations": 1500
+    },
+    {
+      "generation": 1599,
+      "fitness": 0.0055248618784530384,
+      "penalty": 180,
+      "hard": 0,
+      "soft": 18,
+      "evaluations": 1600
+    },
+    {
+      "generation": 1699,
+      "fitness": 0.0055248618784530384,
+      "penalty": 180,
+      "hard": 0,
+      "soft": 18,
+      "evaluations": 1700
+    },
+    {
+      "generation": 1799,
+      "fitness": 0.0055248618784530384,
+      "penalty": 180,
+      "hard": 0,
+      "soft": 18,
+      "evaluations": 1800
+    },
+    {
+      "generation": 1899,
+      "fitness": 0.0055248618784530384,
+      "penalty": 180,
+      "hard": 0,
+      "soft": 18,
+      "evaluations": 1900
+    },
+    {
+      "generation": 1999,
+      "fitness": 0.005847953216374269,
+      "penalty": 170,
+      "hard": 0,
+      "soft": 17,
+      "evaluations": 2000
+    },
+    {
+      "generation": 2099,
+      "fitness": 0.005847953216374269,
+      "penalty": 170,
+      "hard": 0,
+      "soft": 17,
+      "evaluations": 2100
+    },
+    {
+      "generation": 2199,
+      "fitness": 0.005847953216374269,
+      "penalty": 170,
+      "hard": 0,
+      "soft": 17,
+      "evaluations": 2200
+    },
+    {
+      "generation": 2299,
+      "fitness": 0.005847953216374269,
+      "penalty": 170,
+      "hard": 0,
+      "soft": 17,
+      "evaluations": 2300
+    },
+    {
+      "generation": 2399,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 2400
+    },
+    {
+      "generation": 2499,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 2500
+    },
+    {
+      "generation": 2599,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 2600
+    },
+    {
+      "generation": 2699,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 2700
+    },
+    {
+      "generation": 2799,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 2800
+    },
+    {
+      "generation": 2899,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 2900
+    },
+    {
+      "generation": 2999,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 3000
+    },
+    {
+      "generation": 3099,
+      "fitness": 0.006211180124223602,
+      "penalty": 160,
+      "hard": 0,
+      "soft": 16,
+      "evaluations": 3100
+    },
+    {
+      "generation": 3199,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 3200
+    },
+    {
+      "generation": 3299,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 3300
+    },
+    {
+      "generation": 3399,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 3400
+    },
+    {
+      "generation": 3499,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 3500
+    },
+    {
+      "generation": 3599,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 3600
+    },
+    {
+      "generation": 3699,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 3700
+    },
+    {
+      "generation": 3799,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 3800
+    },
+    {
+      "generation": 3899,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 3900
+    },
+    {
+      "generation": 3999,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 4000
+    },
+    {
+      "generation": 4099,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 4100
+    },
+    {
+      "generation": 4199,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 4200
+    },
+    {
+      "generation": 4299,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 4300
+    },
+    {
+      "generation": 4399,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 4400
+    },
+    {
+      "generation": 4499,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 4500
+    },
+    {
+      "generation": 4599,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 4600
+    },
+    {
+      "generation": 4699,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 4700
+    },
+    {
+      "generation": 4799,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 4800
+    },
+    {
+      "generation": 4899,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 4900
+    },
+    {
+      "generation": 4999,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 5000
+    },
+    {
+      "generation": 5099,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 5100
+    },
+    {
+      "generation": 5199,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 5200
+    },
+    {
+      "generation": 5299,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 5300
+    },
+    {
+      "generation": 5399,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 5400
+    },
+    {
+      "generation": 5499,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 5500
+    },
+    {
+      "generation": 5599,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 5600
+    },
+    {
+      "generation": 5699,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 5700
+    },
+    {
+      "generation": 5799,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 5800
+    },
+    {
+      "generation": 5899,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 5900
+    },
+    {
+      "generation": 5999,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 6000
+    },
+    {
+      "generation": 6099,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 6100
+    },
+    {
+      "generation": 6199,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 6200
+    },
+    {
+      "generation": 6299,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 6300
+    },
+    {
+      "generation": 6399,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 6400
+    },
+    {
+      "generation": 6499,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 6500
+    },
+    {
+      "generation": 6599,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 6600
+    },
+    {
+      "generation": 6699,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 6700
+    },
+    {
+      "generation": 6799,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 6800
+    },
+    {
+      "generation": 6899,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 6900
+    },
+    {
+      "generation": 6999,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 7000
+    },
+    {
+      "generation": 7099,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 7100
+    },
+    {
+      "generation": 7199,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 7200
+    },
+    {
+      "generation": 7299,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 7300
+    },
+    {
+      "generation": 7399,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 7400
+    },
+    {
+      "generation": 7499,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 7500
+    },
+    {
+      "generation": 7599,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 7600
+    },
+    {
+      "generation": 7699,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 7700
+    },
+    {
+      "generation": 7799,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 7800
+    },
+    {
+      "generation": 7899,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 7900
+    },
+    {
+      "generation": 7999,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 8000
+    },
+    {
+      "generation": 8099,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 8100
+    },
+    {
+      "generation": 8199,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 8200
+    },
+    {
+      "generation": 8299,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 8300
+    },
+    {
+      "generation": 8399,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 8400
+    },
+    {
+      "generation": 8499,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 8500
+    },
+    {
+      "generation": 8599,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 8600
+    },
+    {
+      "generation": 8699,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 8700
+    },
+    {
+      "generation": 8799,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 8800
+    },
+    {
+      "generation": 8899,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 8900
+    },
+    {
+      "generation": 8999,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 9000
+    },
+    {
+      "generation": 9099,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 9100
+    },
+    {
+      "generation": 9199,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 9200
+    },
+    {
+      "generation": 9299,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 9300
+    },
+    {
+      "generation": 9399,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 9400
+    },
+    {
+      "generation": 9499,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 9500
+    },
+    {
+      "generation": 9599,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 9600
+    },
+    {
+      "generation": 9699,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 9700
+    },
+    {
+      "generation": 9799,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 9800
+    },
+    {
+      "generation": 9899,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 9900
+    },
+    {
+      "generation": 9999,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 10000
+    },
+    {
+      "generation": 10099,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 10100
+    },
+    {
+      "generation": 10199,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 10200
+    },
+    {
+      "generation": 10299,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 10300
+    },
+    {
+      "generation": 10399,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 10400
+    },
+    {
+      "generation": 10499,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 10500
+    },
+    {
+      "generation": 10599,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 10600
+    },
+    {
+      "generation": 10699,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 10700
+    },
+    {
+      "generation": 10799,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 10800
+    },
+    {
+      "generation": 10899,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 10900
+    },
+    {
+      "generation": 10999,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 11000
+    },
+    {
+      "generation": 11099,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 11100
+    },
+    {
+      "generation": 11199,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 11200
+    },
+    {
+      "generation": 11299,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 11300
+    },
+    {
+      "generation": 11399,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 11400
+    },
+    {
+      "generation": 11499,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 11500
+    },
+    {
+      "generation": 11599,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 11600
+    },
+    {
+      "generation": 11699,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 11700
+    },
+    {
+      "generation": 11799,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 11800
+    },
+    {
+      "generation": 11899,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 11900
+    },
+    {
+      "generation": 11999,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 12000
+    },
+    {
+      "generation": 12099,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 12100
+    },
+    {
+      "generation": 12199,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 12200
+    },
+    {
+      "generation": 12299,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 12300
+    },
+    {
+      "generation": 12399,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 12400
+    },
+    {
+      "generation": 12499,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 12500
+    },
+    {
+      "generation": 12599,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 12600
+    },
+    {
+      "generation": 12699,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 12700
+    },
+    {
+      "generation": 12799,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 12800
+    },
+    {
+      "generation": 12899,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 12900
+    },
+    {
+      "generation": 12999,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 13000
+    },
+    {
+      "generation": 13099,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 13100
+    },
+    {
+      "generation": 13199,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 13200
+    },
+    {
+      "generation": 13299,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 13300
+    },
+    {
+      "generation": 13399,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 13400
+    },
+    {
+      "generation": 13499,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 13500
+    },
+    {
+      "generation": 13599,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 13600
+    },
+    {
+      "generation": 13699,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 13700
+    },
+    {
+      "generation": 13799,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 13800
+    },
+    {
+      "generation": 13899,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 13900
+    },
+    {
+      "generation": 13999,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 14000
+    },
+    {
+      "generation": 14099,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 14100
+    },
+    {
+      "generation": 14199,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 14200
+    },
+    {
+      "generation": 14299,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 14300
+    },
+    {
+      "generation": 14399,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 14400
+    },
+    {
+      "generation": 14499,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 14500
+    },
+    {
+      "generation": 14599,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 14600
+    },
+    {
+      "generation": 14699,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 14700
+    },
+    {
+      "generation": 14799,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 14800
+    },
+    {
+      "generation": 14899,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 14900
+    },
+    {
+      "generation": 14999,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 15000
+    },
+    {
+      "generation": 15099,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 15100
+    },
+    {
+      "generation": 15199,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 15200
+    },
+    {
+      "generation": 15299,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 15300
+    },
+    {
+      "generation": 15399,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 15400
+    },
+    {
+      "generation": 15499,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 15500
+    },
+    {
+      "generation": 15599,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 15600
+    },
+    {
+      "generation": 15699,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 15700
+    },
+    {
+      "generation": 15799,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 15800
+    },
+    {
+      "generation": 15899,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 15900
+    },
+    {
+      "generation": 15999,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 16000
+    },
+    {
+      "generation": 16099,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 16100
+    },
+    {
+      "generation": 16199,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 16200
+    },
+    {
+      "generation": 16299,
+      "fitness": 0.006622516556291391,
+      "penalty": 150,
+      "hard": 0,
+      "soft": 15,
+      "evaluations": 16300
+    },
+    {
+      "generation": 16399,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 16400
+    },
+    {
+      "generation": 16499,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 16500
+    },
+    {
+      "generation": 16599,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 16600
+    },
+    {
+      "generation": 16699,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 16700
+    },
+    {
+      "generation": 16799,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 16800
+    },
+    {
+      "generation": 16899,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 16900
+    },
+    {
+      "generation": 16999,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 17000
+    },
+    {
+      "generation": 17099,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 17100
+    },
+    {
+      "generation": 17199,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 17200
+    },
+    {
+      "generation": 17299,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 17300
+    },
+    {
+      "generation": 17399,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 17400
+    },
+    {
+      "generation": 17499,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 17500
+    },
+    {
+      "generation": 17599,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 17600
+    },
+    {
+      "generation": 17699,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 17700
+    },
+    {
+      "generation": 17799,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 17800
+    },
+    {
+      "generation": 17899,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 17900
+    },
+    {
+      "generation": 17999,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 18000
+    },
+    {
+      "generation": 18099,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 18100
+    },
+    {
+      "generation": 18199,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 18200
+    },
+    {
+      "generation": 18299,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 18300
+    },
+    {
+      "generation": 18399,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 18400
+    },
+    {
+      "generation": 18499,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 18500
+    },
+    {
+      "generation": 18599,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 18600
+    },
+    {
+      "generation": 18699,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 18700
+    },
+    {
+      "generation": 18799,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 18800
+    },
+    {
+      "generation": 18899,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 18900
+    },
+    {
+      "generation": 18999,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 19000
+    },
+    {
+      "generation": 19099,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 19100
+    },
+    {
+      "generation": 19199,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 19200
+    },
+    {
+      "generation": 19299,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 19300
+    },
+    {
+      "generation": 19399,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 19400
+    },
+    {
+      "generation": 19499,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 19500
+    },
+    {
+      "generation": 19599,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 19600
+    },
+    {
+      "generation": 19699,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 19700
+    },
+    {
+      "generation": 19799,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 19800
+    },
+    {
+      "generation": 19899,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 19900
+    },
+    {
+      "generation": 19999,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 20000
+    },
+    {
+      "generation": 20099,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 20100
+    },
+    {
+      "generation": 20199,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 20200
+    },
+    {
+      "generation": 20299,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 20300
+    },
+    {
+      "generation": 20399,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 20400
+    },
+    {
+      "generation": 20499,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 20500
+    },
+    {
+      "generation": 20599,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 20600
+    },
+    {
+      "generation": 20699,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 20700
+    },
+    {
+      "generation": 20799,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 20800
+    },
+    {
+      "generation": 20899,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 20900
+    },
+    {
+      "generation": 20999,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 21000
+    },
+    {
+      "generation": 21099,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 21100
+    },
+    {
+      "generation": 21199,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 21200
+    },
+    {
+      "generation": 21299,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 21300
+    },
+    {
+      "generation": 21399,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 21400
+    },
+    {
+      "generation": 21499,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 21500
+    },
+    {
+      "generation": 21599,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 21600
+    },
+    {
+      "generation": 21699,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 21700
+    },
+    {
+      "generation": 21799,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 21800
+    },
+    {
+      "generation": 21899,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 21900
+    },
+    {
+      "generation": 21999,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 22000
+    },
+    {
+      "generation": 22099,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 22100
+    },
+    {
+      "generation": 22199,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 22200
+    },
+    {
+      "generation": 22299,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 22300
+    },
+    {
+      "generation": 22399,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 22400
+    },
+    {
+      "generation": 22499,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 22500
+    },
+    {
+      "generation": 22599,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 22600
+    },
+    {
+      "generation": 22699,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 22700
+    },
+    {
+      "generation": 22799,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 22800
+    },
+    {
+      "generation": 22899,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 22900
+    },
+    {
+      "generation": 22999,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 23000
+    },
+    {
+      "generation": 23099,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 23100
+    },
+    {
+      "generation": 23199,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 23200
+    },
+    {
+      "generation": 23299,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 23300
+    },
+    {
+      "generation": 23399,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 23400
+    },
+    {
+      "generation": 23499,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 23500
+    },
+    {
+      "generation": 23599,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 23600
+    },
+    {
+      "generation": 23699,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 23700
+    },
+    {
+      "generation": 23799,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 23800
+    },
+    {
+      "generation": 23899,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 23900
+    },
+    {
+      "generation": 23999,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 24000
+    },
+    {
+      "generation": 24099,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 24100
+    },
+    {
+      "generation": 24199,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 24200
+    },
+    {
+      "generation": 24299,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 24300
+    },
+    {
+      "generation": 24399,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 24400
+    },
+    {
+      "generation": 24499,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 24500
+    },
+    {
+      "generation": 24599,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 24600
+    },
+    {
+      "generation": 24699,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 24700
+    },
+    {
+      "generation": 24799,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 24800
+    },
+    {
+      "generation": 24899,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 24900
+    },
+    {
+      "generation": 24999,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 25000
+    },
+    {
+      "generation": 25099,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 25100
+    },
+    {
+      "generation": 25199,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 25200
+    },
+    {
+      "generation": 25299,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 25300
+    },
+    {
+      "generation": 25399,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 25400
+    },
+    {
+      "generation": 25499,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 25500
+    },
+    {
+      "generation": 25599,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 25600
+    },
+    {
+      "generation": 25699,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 25700
+    },
+    {
+      "generation": 25799,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 25800
+    },
+    {
+      "generation": 25899,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 25900
+    },
+    {
+      "generation": 25999,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 26000
+    },
+    {
+      "generation": 26099,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 26100
+    },
+    {
+      "generation": 26199,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 26200
+    },
+    {
+      "generation": 26299,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 26300
+    },
+    {
+      "generation": 26399,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 26400
+    },
+    {
+      "generation": 26499,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 26500
+    },
+    {
+      "generation": 26599,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 26600
+    },
+    {
+      "generation": 26699,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 26700
+    },
+    {
+      "generation": 26799,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 26800
+    },
+    {
+      "generation": 26899,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 26900
+    },
+    {
+      "generation": 26999,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 27000
+    },
+    {
+      "generation": 27099,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 27100
+    },
+    {
+      "generation": 27199,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 27200
+    },
+    {
+      "generation": 27299,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 27300
+    },
+    {
+      "generation": 27399,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 27400
+    },
+    {
+      "generation": 27499,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 27500
+    },
+    {
+      "generation": 27599,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 27600
+    },
+    {
+      "generation": 27699,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 27700
+    },
+    {
+      "generation": 27799,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 27800
+    },
+    {
+      "generation": 27899,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 27900
+    },
+    {
+      "generation": 27999,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 28000
+    },
+    {
+      "generation": 28099,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 28100
+    },
+    {
+      "generation": 28199,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 28200
+    },
+    {
+      "generation": 28299,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 28300
+    },
+    {
+      "generation": 28399,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 28400
+    },
+    {
+      "generation": 28499,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 28500
+    },
+    {
+      "generation": 28599,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 28600
+    },
+    {
+      "generation": 28699,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 28700
+    },
+    {
+      "generation": 28799,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 28800
+    },
+    {
+      "generation": 28899,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 28900
+    },
+    {
+      "generation": 28999,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 29000
+    },
+    {
+      "generation": 29099,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 29100
+    },
+    {
+      "generation": 29199,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 29200
+    },
+    {
+      "generation": 29299,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 29300
+    },
+    {
+      "generation": 29399,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 29400
+    },
+    {
+      "generation": 29499,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 29500
+    },
+    {
+      "generation": 29599,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 29600
+    },
+    {
+      "generation": 29699,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 29700
+    },
+    {
+      "generation": 29799,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 29800
+    },
+    {
+      "generation": 29899,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 29900
+    },
+    {
+      "generation": 29999,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 30000
+    },
+    {
+      "generation": 30099,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 30100
+    },
+    {
+      "generation": 30199,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 30200
+    },
+    {
+      "generation": 30299,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 30300
+    },
+    {
+      "generation": 30399,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 30400
+    },
+    {
+      "generation": 30499,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 30500
+    },
+    {
+      "generation": 30599,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 30600
+    },
+    {
+      "generation": 30699,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 30700
+    },
+    {
+      "generation": 30799,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 30800
+    },
+    {
+      "generation": 30899,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 30900
+    },
+    {
+      "generation": 30999,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 31000
+    },
+    {
+      "generation": 31099,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 31100
+    },
+    {
+      "generation": 31199,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 31200
+    },
+    {
+      "generation": 31299,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 31300
+    },
+    {
+      "generation": 31399,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 31400
+    },
+    {
+      "generation": 31499,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 31500
+    },
+    {
+      "generation": 31599,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 31600
+    },
+    {
+      "generation": 31699,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 31700
+    },
+    {
+      "generation": 31799,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 31800
+    },
+    {
+      "generation": 31899,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 31900
+    },
+    {
+      "generation": 31999,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 32000
+    },
+    {
+      "generation": 32099,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 32100
+    },
+    {
+      "generation": 32199,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 32200
+    },
+    {
+      "generation": 32299,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 32300
+    },
+    {
+      "generation": 32399,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 32400
+    },
+    {
+      "generation": 32499,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 32500
+    },
+    {
+      "generation": 32599,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 32600
+    },
+    {
+      "generation": 32699,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 32700
+    },
+    {
+      "generation": 32799,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 32800
+    },
+    {
+      "generation": 32899,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 32900
+    },
+    {
+      "generation": 32999,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 33000
+    },
+    {
+      "generation": 33099,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 33100
+    },
+    {
+      "generation": 33199,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 33200
+    },
+    {
+      "generation": 33299,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 33300
+    },
+    {
+      "generation": 33399,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 33400
+    },
+    {
+      "generation": 33499,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 33500
+    },
+    {
+      "generation": 33599,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 33600
+    },
+    {
+      "generation": 33699,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 33700
+    },
+    {
+      "generation": 33799,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 33800
+    },
+    {
+      "generation": 33899,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 33900
+    },
+    {
+      "generation": 33999,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 34000
+    },
+    {
+      "generation": 34099,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 34100
+    },
+    {
+      "generation": 34199,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 34200
+    },
+    {
+      "generation": 34299,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 34300
+    },
+    {
+      "generation": 34399,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 34400
+    },
+    {
+      "generation": 34499,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 34500
+    },
+    {
+      "generation": 34599,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 34600
+    },
+    {
+      "generation": 34699,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 34700
+    },
+    {
+      "generation": 34799,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 34800
+    },
+    {
+      "generation": 34899,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 34900
+    },
+    {
+      "generation": 34999,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 35000
+    },
+    {
+      "generation": 35099,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 35100
+    },
+    {
+      "generation": 35199,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 35200
+    },
+    {
+      "generation": 35299,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 35300
+    },
+    {
+      "generation": 35399,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 35400
+    },
+    {
+      "generation": 35499,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 35500
+    },
+    {
+      "generation": 35599,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 35600
+    },
+    {
+      "generation": 35699,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 35700
+    },
+    {
+      "generation": 35799,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 35800
+    },
+    {
+      "generation": 35899,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 35900
+    },
+    {
+      "generation": 35999,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 36000
+    },
+    {
+      "generation": 36099,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 36100
+    },
+    {
+      "generation": 36199,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 36200
+    },
+    {
+      "generation": 36299,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 36300
+    },
+    {
+      "generation": 36399,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 36400
+    },
+    {
+      "generation": 36499,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 36500
+    },
+    {
+      "generation": 36599,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 36600
+    },
+    {
+      "generation": 36699,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 36700
+    },
+    {
+      "generation": 36799,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 36800
+    },
+    {
+      "generation": 36899,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 36900
+    },
+    {
+      "generation": 36999,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 37000
+    },
+    {
+      "generation": 37099,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 37100
+    },
+    {
+      "generation": 37199,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 37200
+    },
+    {
+      "generation": 37299,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 37300
+    },
+    {
+      "generation": 37399,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 37400
+    },
+    {
+      "generation": 37499,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 37500
+    },
+    {
+      "generation": 37599,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 37600
+    },
+    {
+      "generation": 37699,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 37700
+    },
+    {
+      "generation": 37799,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 37800
+    },
+    {
+      "generation": 37899,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 37900
+    },
+    {
+      "generation": 37999,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 38000
+    },
+    {
+      "generation": 38099,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 38100
+    },
+    {
+      "generation": 38199,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 38200
+    },
+    {
+      "generation": 38299,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 38300
+    },
+    {
+      "generation": 38399,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 38400
+    },
+    {
+      "generation": 38499,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 38500
+    },
+    {
+      "generation": 38599,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 38600
+    },
+    {
+      "generation": 38699,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 38700
+    },
+    {
+      "generation": 38799,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 38800
+    },
+    {
+      "generation": 38899,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 38900
+    },
+    {
+      "generation": 38999,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 39000
+    },
+    {
+      "generation": 39099,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 39100
+    },
+    {
+      "generation": 39199,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 39200
+    },
+    {
+      "generation": 39299,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 39300
+    },
+    {
+      "generation": 39399,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 39400
+    },
+    {
+      "generation": 39499,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 39500
+    },
+    {
+      "generation": 39599,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 39600
+    },
+    {
+      "generation": 39699,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 39700
+    },
+    {
+      "generation": 39799,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 39800
+    },
+    {
+      "generation": 39899,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 39900
+    },
+    {
+      "generation": 39999,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 40000
+    },
+    {
+      "generation": 40099,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 40100
+    },
+    {
+      "generation": 40199,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 40200
+    },
+    {
+      "generation": 40299,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 40300
+    },
+    {
+      "generation": 40399,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 40400
+    },
+    {
+      "generation": 40499,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 40500
+    },
+    {
+      "generation": 40599,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 40600
+    },
+    {
+      "generation": 40699,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 40700
+    },
+    {
+      "generation": 40799,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 40800
+    },
+    {
+      "generation": 40899,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 40900
+    },
+    {
+      "generation": 40999,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 41000
+    },
+    {
+      "generation": 41099,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 41100
+    },
+    {
+      "generation": 41199,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 41200
+    },
+    {
+      "generation": 41299,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 41300
+    },
+    {
+      "generation": 41399,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 41400
+    },
+    {
+      "generation": 41499,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 41500
+    },
+    {
+      "generation": 41599,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 41600
+    },
+    {
+      "generation": 41699,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 41700
+    },
+    {
+      "generation": 41799,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 41800
+    },
+    {
+      "generation": 41899,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 41900
+    },
+    {
+      "generation": 41999,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 42000
+    },
+    {
+      "generation": 42099,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 42100
+    },
+    {
+      "generation": 42199,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 42200
+    },
+    {
+      "generation": 42299,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 42300
+    },
+    {
+      "generation": 42399,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 42400
+    },
+    {
+      "generation": 42499,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 42500
+    },
+    {
+      "generation": 42599,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 42600
+    },
+    {
+      "generation": 42699,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 42700
+    },
+    {
+      "generation": 42799,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 42800
+    },
+    {
+      "generation": 42899,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 42900
+    },
+    {
+      "generation": 42999,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 43000
+    },
+    {
+      "generation": 43099,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 43100
+    },
+    {
+      "generation": 43199,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 43200
+    },
+    {
+      "generation": 43299,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 43300
+    },
+    {
+      "generation": 43399,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 43400
+    },
+    {
+      "generation": 43499,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 43500
+    },
+    {
+      "generation": 43599,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 43600
+    },
+    {
+      "generation": 43699,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 43700
+    },
+    {
+      "generation": 43799,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 43800
+    },
+    {
+      "generation": 43899,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 43900
+    },
+    {
+      "generation": 43999,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 44000
+    },
+    {
+      "generation": 44099,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 44100
+    },
+    {
+      "generation": 44199,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 44200
+    },
+    {
+      "generation": 44299,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 44300
+    },
+    {
+      "generation": 44399,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 44400
+    },
+    {
+      "generation": 44499,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 44500
+    },
+    {
+      "generation": 44599,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 44600
+    },
+    {
+      "generation": 44699,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 44700
+    },
+    {
+      "generation": 44799,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 44800
+    },
+    {
+      "generation": 44899,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 44900
+    },
+    {
+      "generation": 44999,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 45000
+    },
+    {
+      "generation": 45099,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 45100
+    },
+    {
+      "generation": 45199,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 45200
+    },
+    {
+      "generation": 45299,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 45300
+    },
+    {
+      "generation": 45399,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 45400
+    },
+    {
+      "generation": 45499,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 45500
+    },
+    {
+      "generation": 45599,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 45600
+    },
+    {
+      "generation": 45699,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 45700
+    },
+    {
+      "generation": 45799,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 45800
+    },
+    {
+      "generation": 45899,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 45900
+    },
+    {
+      "generation": 45999,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 46000
+    },
+    {
+      "generation": 46099,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 46100
+    },
+    {
+      "generation": 46199,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 46200
+    },
+    {
+      "generation": 46299,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 46300
+    },
+    {
+      "generation": 46399,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 46400
+    },
+    {
+      "generation": 46499,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 46500
+    },
+    {
+      "generation": 46599,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 46600
+    },
+    {
+      "generation": 46699,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 46700
+    },
+    {
+      "generation": 46799,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 46800
+    },
+    {
+      "generation": 46899,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 46900
+    },
+    {
+      "generation": 46999,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 47000
+    },
+    {
+      "generation": 47099,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 47100
+    },
+    {
+      "generation": 47199,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 47200
+    },
+    {
+      "generation": 47299,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 47300
+    },
+    {
+      "generation": 47399,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 47400
+    },
+    {
+      "generation": 47499,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 47500
+    },
+    {
+      "generation": 47599,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 47600
+    },
+    {
+      "generation": 47699,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 47700
+    },
+    {
+      "generation": 47799,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 47800
+    },
+    {
+      "generation": 47899,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 47900
+    },
+    {
+      "generation": 47999,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 48000
+    },
+    {
+      "generation": 48099,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 48100
+    },
+    {
+      "generation": 48199,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 48200
+    },
+    {
+      "generation": 48299,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 48300
+    },
+    {
+      "generation": 48399,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 48400
+    },
+    {
+      "generation": 48499,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 48500
+    },
+    {
+      "generation": 48599,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 48600
+    },
+    {
+      "generation": 48699,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 48700
+    },
+    {
+      "generation": 48799,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 48800
+    },
+    {
+      "generation": 48899,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 48900
+    },
+    {
+      "generation": 48999,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 49000
+    },
+    {
+      "generation": 49099,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 49100
+    },
+    {
+      "generation": 49199,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 49200
+    },
+    {
+      "generation": 49299,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 49300
+    },
+    {
+      "generation": 49399,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 49400
+    },
+    {
+      "generation": 49499,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 49500
+    },
+    {
+      "generation": 49599,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 49600
+    },
+    {
+      "generation": 49699,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 49700
+    },
+    {
+      "generation": 49799,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 49800
+    },
+    {
+      "generation": 49899,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 49900
+    },
+    {
+      "generation": 49999,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 50000
+    },
+    {
+      "generation": 50099,
+      "fitness": 0.0070921985815602835,
+      "penalty": 140,
+      "hard": 0,
+      "soft": 14,
+      "evaluations": 50100
+    }
+  ],
+  "generations": 50099,
+  "evaluations": 50100,
+  "runtime": 2.3125,
+  "reason": "evaluation budget",
+  "algorithm": "Hill Climbing",
+  "config": {
+    "seed": 1,
+    "iterations": 50099,
+    "record_every": 100
+  }
+}

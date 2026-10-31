@@ -1,0 +1,50 @@
+30 courses, 15 instructors, 6 rooms, 11 student groups, 5 days x 4 periods
+
+Day        Time         ID   Course                          Instructor  Room  Groups
+---------  -----------  ---  ------------------------------  ----------  ----  -------------
+Sunday     09:00-10:00  C06  Algorithms                      Dr. Sara    R102  CS-Y3, CE-Y3
+Sunday     09:00-10:00  C08  Computer Graphics               Dr. Rana    LAB1  CS-Y4
+Sunday     10:00-11:00  C03  Networks                        Dr. Omar    R101  CS-Y4, CE-Y3
+Monday     09:00-10:00  C14  Calculus for Computing          Dr. Maha    R101  CS-Y1
+Monday     09:00-10:00  C02  Database                        Dr. Ali     R102  CS-Y3, CE-Y3
+Monday     09:00-10:00  C30  Cloud Computing                 Dr. Fadi    R103  SE-Y3, CE-Y4
+Monday     10:00-11:00  C13  Discrete Mathematics            Dr. Hani    R102  CS-Y1
+Monday     10:00-11:00  C24  Networks Lab                    Dr. Omar    LAB1  SE-Y3
+Monday     10:00-11:00  C09  Web Programming                 Dr. Yousef  LAB2  CE-Y3
+Tuesday    09:00-10:00  C11  Programming I                   Dr. Nour    R101  CS-Y1
+Tuesday    09:00-10:00  C07  Data Mining                     Dr. Khaled  R102  CS-Y4
+Tuesday    09:00-10:00  C01  Artificial Intelligence         Dr. Ahmad   R103  CS-Y3
+Tuesday    10:00-11:00  C21  Theory of Computation           Dr. Dina    R101  CS-Y3B
+Tuesday    10:00-11:00  C10  Machine Learning                Dr. Khaled  R102  CS-Y4, AI-Y4
+Tuesday    10:00-11:00  C04  Operating Systems               Dr. Ahmad   R103  CS-Y3
+Tuesday    10:00-11:00  C12  Programming I Lab               Dr. Nour    LAB2  CS-Y1
+Tuesday    11:00-12:00  C05  Software Engineering            Dr. Lina    R101  CS-Y3, CS-Y4
+Wednesday  08:00-09:00  C17  Data Structures                 Dr. Sara    R102  CS-Y2
+Wednesday  09:00-10:00  C27  Probability and Statistics      Dr. Reem    R101  CS-Y3B, SE-Y3
+Wednesday  09:00-10:00  C19  Computer Architecture           Dr. Samer   R103  CS-Y2, CE-Y2
+Wednesday  10:00-11:00  C28  Numerical Methods               Dr. Reem    R102  SE-Y3
+Wednesday  10:00-11:00  C25  Database Lab                    Dr. Yousef  LAB1  CS-Y3B
+Wednesday  10:00-11:00  C18  Data Structures Lab             Dr. Hani    LAB2  CS-Y2
+Thursday   08:00-09:00  C20  Linear Algebra                  Dr. Maha    R102  CS-Y2, CE-Y2
+Thursday   09:00-10:00  C16  Programming II                  Dr. Ali     R102  CS-Y2, CE-Y2
+Thursday   09:00-10:00  C23  Computer Security               Dr. Fadi    R103  CS-Y3B, CY-Y4
+Thursday   09:00-10:00  C29  Mobile Application Development  Dr. Rana    LAB1  SE-Y3
+Thursday   10:00-11:00  C15  Digital Logic Design            Dr. Samer   R101  CS-Y1, CE-Y2
+Thursday   10:00-11:00  C26  Human-Computer Interaction      Dr. Lina    R102  SE-Y3
+Thursday   10:00-11:00  C22  Compilers                       Dr. Dina    R103  CS-Y3B
+
+Algorithm:         Genetic Algorithm
+Courses scheduled: 30/30
+Hard violations:   0
+Soft violations:   16
+Final penalty:     160
+Best fitness:      0.00621
+Generations:       184
+Runtime:           1.70 s
+Stopped by:        no improvement
+Hard breakdown:    instructor conflict 0, room conflict 0, student conflict 0, room capacity 0, room type 0, instructor availability 0
+Soft breakdown:    early classes 2, late classes 1, student gaps 0, instructor preferences 1, group working days 12
+Penalty formula:   2450 x 0 + 10 x 16 = 160
+Chromosome (slot numbers): [56, 31, 12, 62, 66, 7, 55, 10, 41, 61, 54, 65, 37, 30, 108, 103, 73, 89, 80, 97, 60, 110, 104, 40, 88, 109, 78, 85, 106, 32]
+
+Saved results to C:\Users\bsbra\Desktop\AI project\results\demo
